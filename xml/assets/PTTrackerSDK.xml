@@ -1,0 +1,7 @@
+<PTTrackerSDK>
+    <RunConfig>
+        <RunConfig appId="2005001386" appKey="5bb8d78300de2bb892e9b6ea38a2be96" billingModule="Rgame" debug="true" language="cn" biagent="modernwar-ml-kafka.qitiangame.com"/>
+        <ThirdPlatform/>
+        <Tracker/>
+    </RunConfig>
+</PTTrackerSDK>

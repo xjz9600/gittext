@@ -1,0 +1,3666 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_79 (Oracle Corporation)
+
+Name: assets/public/tankLoadingBar.png
+SHA1-Digest: 2NEUMKa0kpcwH2Y8AP6EcGyUKEU=
+
+Name: assets/newImage/uncompress/newUnCompress2.pvr.ccz
+SHA1-Digest: zQiuBeHzg0hqrFeXUUPCWthy7Mw=
+
+Name: assets/newImage/uncompress/newUnCompress2.plist
+SHA1-Digest: v+FypqaZb+UiN5kDO5hclvEISGA=
+
+Name: assets/ccb_published/worldRebel/wRebel_35.ccbi
+SHA1-Digest: Wr3z2x9EjPe5+O9lJ3KbajujpGI=
+
+Name: assets/CCBRes/battleScene.pvr.ccz
+SHA1-Digest: Jt9nNKiiMMIQmmBGj69p10XP1UM=
+
+Name: assets/newImage/particle/juntuan03.plist
+SHA1-Digest: vcpgO9xELXr0sw5soyHVA9ACp1c=
+
+Name: assets/CCBRes/tk4.pvr.ccz
+SHA1-Digest: +0Z6iJCBadWwMqMSqazixmK9lUI=
+
+Name: assets/audio/tank_4.m4a
+SHA1-Digest: Lu4jIf4Rur4NNisDLVPeT0Bw588=
+
+Name: res/layout/com_tencent_ysdk_icon_errerpage.xml
+SHA1-Digest: wYKvQhtbD4vNrqIceNu5FkZz3Lc=
+
+Name: assets/CCBRes/decorate_map_1.plist
+SHA1-Digest: 4qsvOlrzFP0iHu7V4v43N0yYCsM=
+
+Name: assets/scene/warehouseScene.jpg
+SHA1-Digest: 9BqGuRZE75eOolLMxeG3Gr8FhtM=
+
+Name: assets/newImage/activity/limitActivityIcon.pvr.ccz
+SHA1-Digest: bKeoSaRzdIyVgv86YZvUMP+N6G0=
+
+Name: assets/CCBRes/tk99999.plist
+SHA1-Digest: 9xzpc4qk8VVzdxAY3q1i2AnfIk8=
+
+Name: assets/ccb_published/TankNode/tank4/effect/BulletEffect2.ccbi
+SHA1-Digest: regzpJzZQ/lhAHGnElQvGWYrn+Y=
+
+Name: assets/ccb_published/TankNode/tank8/Tank17_2.ccbi
+SHA1-Digest: Te0C/h469/Lt/8AmMxGI3xBkAuw=
+
+Name: assets/ccb_published/TankNode/tank8/Tank16_1.ccbi
+SHA1-Digest: VBTTxbdv1bZiuyN0m/P+UgkVEW4=
+
+Name: assets/public/number_Power.fnt
+SHA1-Digest: 4NYFWxMUWQvebuuEUJ43Nl4oCUA=
+
+Name: assets/ccb_published/MainScene/GetResources.ccbi
+SHA1-Digest: Xr8Y7ssCJQxd5Lihrs/Jn8C2dOA=
+
+Name: assets/newImage/activity/acDayRecharge.pvr.ccz
+SHA1-Digest: smphM5LR9KIvdICTUqlpCDLx4Ms=
+
+Name: assets/ccb_published/CheckPoint/ckp_1_7.ccbi
+SHA1-Digest: vYggQhKMmYdOZw0yi2QDyEH7OKE=
+
+Name: assets/CCBRes/tk9_1.plist
+SHA1-Digest: n3AMzbjHvN1cd4ny7N/YTjP8Yks=
+
+Name: assets/ccb_published/TankNode/tank1/effect/BulletEffect1.ccbi
+SHA1-Digest: qwpSVhn2UsAJtWb45G32zixCsfk=
+
+Name: assets/newImage/activity/acMainnotedetail.pvr.ccz
+SHA1-Digest: AOmst3RzzDdn18U5IueQETjMPaw=
+
+Name: assets/newImage/particle/festivalSpring/lipao.plist
+SHA1-Digest: HuRRd7bl/k5b6+VHlKqdQkzbbZo=
+
+Name: assets/ccb_published/TankNode/tank2/Tank10055_2.ccbi
+SHA1-Digest: 3uEYMnuuYNO4n4DXC+PhOfm6jUY=
+
+Name: assets/ccb_published/CheckPoint/ckp_1_2.ccbi
+SHA1-Digest: ztTJjB9MNoEM8pSEzfiYu8MUFJE=
+
+Name: assets/ccb_published/main.js
+SHA1-Digest: IvLqQzIhyeJlGoiWQ7sAjaXmr54=
+
+Name: assets/newImage/portScene/flag.png
+SHA1-Digest: zQIMHH59hKVxxu/8MoEVP1ZffGE=
+
+Name: assets/boatImage/story/chapter/story_chapter_9.jpg
+SHA1-Digest: hexVMFSECYKTiharD7NDoSKeSPY=
+
+Name: assets/CCBRes/tk7_1.pvr.ccz
+SHA1-Digest: cqhetLW3tE7B/Jmu6CWmN4bytW8=
+
+Name: assets/ccb_published/MainScene/treeC.ccbi
+SHA1-Digest: 9vXZ883+gyoECrEofnzWM3d/lpw=
+
+Name: assets/newImage/functionImage/alliance/allianceImage.plist
+SHA1-Digest: NHWfs+WpFItY0ojDbDxO5oKcTCw=
+
+Name: assets/CCBRes/tk10055_1.pvr.ccz
+SHA1-Digest: 9YWOlQrIDRPBbKrH7kMlvtRfc1M=
+
+Name: assets/cn/LoadingBtn6.png
+SHA1-Digest: Sxl4qUXhRy8h5fsR/d6PVVcWYRg=
+
+Name: lib/armeabi/libBugly.so
+SHA1-Digest: 2G396OABKk1BQ3GMW1n6wcUZT2w=
+
+Name: assets/newImage/icon/propIcon.plist
+SHA1-Digest: rv8b4dInexKKFvLaoRUoWVMgcNc=
+
+Name: assets/public/hero/heroSkillsImage.plist
+SHA1-Digest: IMakYSQVIsoTfo2/mX4Z4NP5fpw=
+
+Name: assets/ccb_published/CheckPoint/ro4_4.ccbi
+SHA1-Digest: P7p2iji9/3bZ29SCB9KpNt5FX00=
+
+Name: assets/boatImage/story/chapter/story_chapter_3.jpg
+SHA1-Digest: 1dDlvSTk1rzVA3QByO/y19aa230=
+
+Name: assets/boatImage/story/chapter/story_chapter_6.jpg
+SHA1-Digest: 1LmZ5itV+WLEgTomGrHj9kJskIU=
+
+Name: assets/newImage/portScene/runestowerAnim.plist
+SHA1-Digest: 6oU45Gk/MKESSjFPod8Gv0K/dbc=
+
+Name: assets/ccb_published/CheckPoint/b12.ccbi
+SHA1-Digest: 3Q1zgDwhHg0bV2EhyqUBfVbYjNQ=
+
+Name: assets/CCBRes/tk8_1.pvr.ccz
+SHA1-Digest: IKzromo9ysYNmDMNYZMBlsmQEGE=
+
+Name: assets/CCBRes/tk12_2.pvr.ccz
+SHA1-Digest: Eqy4VRzDG87w4Ol8ImDI5YyGT7U=
+
+Name: assets/public/btnParticle/lingqu.png
+SHA1-Digest: cWlsfbeQtcenp3x5whuxI7/qh/8=
+
+Name: assets/CCBRes/tk20.plist
+SHA1-Digest: xMwY76pCfgqYBErtdssonLtfjmc=
+
+Name: assets/cn/multilanguage1.plist
+SHA1-Digest: /FVVJ1kCJDf7B5K4Iy5LL4SHokg=
+
+Name: assets/public/tankShape.png
+SHA1-Digest: WN3HthC5Pt+9e0ITuOQMUBDSzko=
+
+Name: assets/boatImage/pressedPkg/buildingAnim.pvr.ccz
+SHA1-Digest: doArx7xTn+XKVbn2mJjHzaaZfHo=
+
+Name: assets/audio/reward.m4a
+SHA1-Digest: dJpuGE4hgZeX6GA2lAc2HQdebXw=
+
+Name: assets/newImage/activity/xing.plist
+SHA1-Digest: 43yOkP1qpbCwLBCdtNEiJcMfDzY=
+
+Name: assets/CCBRes/checkPoint.pvr.ccz
+SHA1-Digest: co7bYysRukAHA9gxcGftUwT2i9c=
+
+Name: assets/audio/battle_win.m4a
+SHA1-Digest: pLIwWjOwfN1eb+p/q2FE5Dg8Znc=
+
+Name: assets/ccb_published/TankNode/tank2/Tank6_2.ccbi
+SHA1-Digest: cFE/ZTcPvUTxFqn4zNIxxYZwDvc=
+
+Name: assets/ccb_published/CheckPoint/ckp_1_10.ccbi
+SHA1-Digest: bEFb2Xh2Ho5pOtzruMJEq7AqWjo=
+
+Name: assets/ccb_published/TankNode/tank8/effect/FireEffect1.ccbi
+SHA1-Digest: Gi9L0imR2FTU0IVZcDbczzS+KIc=
+
+Name: assets/public/playerChangePhoto.pvr.ccz
+SHA1-Digest: 89mp5kYcbhrKi3beiH2Nq4QzmTk=
+
+Name: assets/newImage/activity/bai_star.plist
+SHA1-Digest: HMh1MjPvZc9mmuMGbEL5bLewRmY=
+
+Name: assets/public/dengluchainSys/kaihuo1.plist
+SHA1-Digest: lYshVNqJDzdQ1N9YaB57Kb/j/Ag=
+
+Name: assets/ccb_published/MainScene/world_plane_dir_2.ccbi
+SHA1-Digest: gheVySCJK2LfcQ+x6cD3AM6Gcpk=
+
+Name: assets/CCBRes/tk6_1.plist
+SHA1-Digest: PY44uBvBTapv6rnvoRSXiTS5+L4=
+
+Name: assets/boatImage/worldMap/worldTopShade1.png
+SHA1-Digest: p1j8Lxcr+wdOmUWgpnU/Qc/JGAg=
+
+Name: assets/newImage/particle/christmas_piao03.plist
+SHA1-Digest: JEnb0vokCFfdwqJrmgAAt6As6jg=
+
+Name: assets/public/btnParticle/caiji01.plist
+SHA1-Digest: nd9GbXbfFRjQ8ZCCU2GFI8iKEIU=
+
+Name: assets/CCBRes/tjb_4.plist
+SHA1-Digest: dJpJnwc6Uzs6r7mpoGAWAC9XG0I=
+
+Name: assets/ccb_published/BattleScene/BattleSceneTopUI.ccbi
+SHA1-Digest: RhggXA587twt/rbta5reUmNJmAM=
+
+Name: assets/ccb_published/MainScene_B/PatrolLayer2.ccbi
+SHA1-Digest: xwJ2vHt70HRdh4WegGMJ2D5vfKQ=
+
+Name: res/drawable/com_tencent_ysdk_icon_state_bg_disable_bd.xml
+SHA1-Digest: ytbGHxjiPKrcs4DVQiR4XQRXKm4=
+
+Name: assets/ccb_published/TankNode/tank4/Tank15_1.ccbi
+SHA1-Digest: mku2PKa0jIRGfEzFuW7RhEXq2Wk=
+
+Name: assets/yyb_friends.png
+SHA1-Digest: jnHduk4R6gxpMxjc6Oln2liiuRw=
+
+Name: assets/libwbsafeedit_x86_64
+SHA1-Digest: KyQySQK0AhtqoODth2NaER/FRzA=
+
+Name: res/drawable-hdpi/tencent_rsdk_wx_pressed.png
+SHA1-Digest: gieDjs/RdlN05mVF23rRN7e+sYk=
+
+Name: assets/newImage/particle/festivalSpring/huodong02.png
+SHA1-Digest: AbkaFq3/PnnxL0bVbWW/iAWRavE=
+
+Name: assets/newImage/building/buildingUpgrade.pvr.ccz
+SHA1-Digest: M1b+swpOu6xeDS2QMD9JZp0nN80=
+
+Name: assets/ccb_published/CheckPoint/tk5_tk5_7.ccbi
+SHA1-Digest: vYggQhKMmYdOZw0yi2QDyEH7OKE=
+
+Name: assets/boatImage/pressedPkg/storyImage.plist
+SHA1-Digest: 6sWSr9VujEDULjlx62Y61ATpkOY=
+
+Name: assets/newImage/building/soldierFactory.pvr.ccz
+SHA1-Digest: 6cM9mJLK/Xa+RGrTMmf3lKB00ao=
+
+Name: assets/newImage/activity/slotMachineCommon.plist
+SHA1-Digest: ITUZQquYYjefN+S44ZR5v5/ADzE=
+
+Name: assets/audio/building_workshop.m4a
+SHA1-Digest: byVbl2+yew1nzG3Hft4ewXnPev0=
+
+Name: assets/ccb_published/WarriorQueue/liebingHoom10065.ccbi
+SHA1-Digest: Lz/fy+lFlPW4m3zLhnCcetVfxHg=
+
+Name: assets/newImage/activity/bstar.png
+SHA1-Digest: V3IY815g+9whSF7fB8y1DdlifpE=
+
+Name: assets/ccb_published/TankNode/effect/destroy.ccbi
+SHA1-Digest: 7JR2iw5SP4Ox+lfPyKC07JAa16Y=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_real_name_btn_nor.9.png
+SHA1-Digest: NhzMFmfVLDqgy77qma4KSQmVnh8=
+
+Name: assets/newImage/portScene/ac.plist
+SHA1-Digest: cku9jIPHPU3xSLvyKmNiLBgnK7o=
+
+Name: res/drawable/game_coin_icon.png
+SHA1-Digest: 9ZY3ZKL4kzg/dm1DTWo5I/lUmkY=
+
+Name: assets/newImage/portScene/lightlineAnim.png
+SHA1-Digest: YxRH7oQTxujnWGSPW2HHNNHJ9zk=
+
+Name: assets/ccb_published/CheckPoint/ra4_tk18_ro4_15.ccbi
+SHA1-Digest: aNtlGShg3zUKQI9kq7gM7qYHp5o=
+
+Name: assets/ccb_published/MainScene/Snake_Anim.ccbi
+SHA1-Digest: 3ActQlY+mWgTQD1/CWmmhG/ZXzI=
+
+Name: assets/CCBRes/tk10055_2.plist
+SHA1-Digest: QQhHSKPBVE3ROQaNCEASpiO1KIQ=
+
+Name: assets/boatImage/mainUi/chat_look_image.pvr.ccz
+SHA1-Digest: 3RL5bvBpGdCHVPAP16gHYGE4Xbo=
+
+Name: assets/audio/tank_1.m4a
+SHA1-Digest: K6gyUmGJXtSjcD6H8X4DQgCW+RY=
+
+Name: assets/newImage/particle/powerLevelUp.png
+SHA1-Digest: P7ilEtnOLbcXJKPcPXfEtczHvHs=
+
+Name: assets/newImage/functionImage/alliance/allianceImage.pvr.ccz
+SHA1-Digest: E5HTDxXeSxeZ/cyOoBcTI1yVeCU=
+
+Name: assets/newImage/uncompress/unCompress5.plist
+SHA1-Digest: H0Fme+1MhwuRqEFfIto7NnSBzvU=
+
+Name: assets/newImage/particle/festivalSpring/pao04.plist
+SHA1-Digest: qxBWAX+igHzSdHlSn/0MsJ6uqNQ=
+
+Name: assets/ccb_published/CheckPoint/tk4_tk4_7.ccbi
+SHA1-Digest: LLZVwHl9CkwoXgHAWkhHGKk9+X0=
+
+Name: assets/ccb_published/TankNode/tank4/Tank10065_2.ccbi
+SHA1-Digest: vY1XRkM+1Bo1nVZ2cjpfP/uwQzw=
+
+Name: assets/boatImage/worldMap/worldRes.pvr.ccz
+SHA1-Digest: N5dF+E47f7begU1kaNMuQvHbj70=
+
+Name: assets/public/armorMatrix/armorMatrix01.png
+SHA1-Digest: AbkaFq3/PnnxL0bVbWW/iAWRavE=
+
+Name: assets/CCBRes/destroy.pvr.ccz
+SHA1-Digest: 3HwM8HxgzZnx5QJdISwuEhuXmOY=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_real_name_btn_bg.xml
+SHA1-Digest: K9gNo8Kgxyz1xJXu4SuecbCjN+8=
+
+Name: assets/ccb_published/MainScene/OilBuild.ccbi
+SHA1-Digest: G6RqkoRmWPrqigLo0AR+dg8+OEo=
+
+Name: assets/boatImage/pressedPkg/bossRes.plist
+SHA1-Digest: n/awyLWlhDu5xbM3A9snemg2ptw=
+
+Name: assets/ccb_published/worldRebel/wRebel_65.ccbi
+SHA1-Digest: 8ywWUBmBshiN0U0u3Cox0VlpUI0=
+
+Name: assets/newImage/particle/juntuan01.png
+SHA1-Digest: TIkutR7BOUaGL7kZNzrU5ety7NY=
+
+Name: assets/public/btnParticle/lotteryStarParticle.plist
+SHA1-Digest: VR9CdW7DlZXfBjy6B8SPwaSAHkc=
+
+Name: assets/CCBRes/hjb_2.plist
+SHA1-Digest: AS0O2MST70JcQltqk+mMS+z27g0=
+
+Name: assets/ccb_published/MainScene_B/AirdropMaterialLayer.ccbi
+SHA1-Digest: P27hBaSFLKxJVRyLhAIL8n/C2jc=
+
+Name: assets/newImage/portScene/sheepAnim.plist
+SHA1-Digest: p/wIYjG38/OcaqW1lzPHjmpCbGE=
+
+Name: assets/CCBRes/decorate_map_2.plist
+SHA1-Digest: J1XKbwRpIk6VugqISb/ExkH61Ds=
+
+Name: assets/newImage/activity/acDayRecharge.plist
+SHA1-Digest: bnJWTtMjGS+D/WMo2QH7OolpkAg=
+
+Name: assets/newImage/activity/snow2.png
+SHA1-Digest: IxXW3KBGxj6F1ryXhBrlN8uZUkw=
+
+Name: assets/newImage/icon/soldierIcon.plist
+SHA1-Digest: KqrhziObGPaMEBpswkZ09WpfNXU=
+
+Name: assets/newImage/world/bookmark.plist
+SHA1-Digest: 5nSc/VsZOH2crXmhH38yBdBKwhc=
+
+Name: assets/public/xd.png
+SHA1-Digest: YoqQU+XVB6kypKK0hI5U2eontdo=
+
+Name: assets/CCBRes/tk11_2.plist
+SHA1-Digest: IIW9/F6p83goBvgjAw0+Hrl8iEU=
+
+Name: assets/newImage/activity/green_star.plist
+SHA1-Digest: RKcXAFDwN9iEpxtXCIirNci977o=
+
+Name: assets/ccb_published/TankNode/tank2/Tank8_1.ccbi
+SHA1-Digest: J8U4YyIJvuE/MO6BPk687B4KzQQ=
+
+Name: assets/newImage/particle/patrolBoatWave.plist
+SHA1-Digest: PXk5GdS3vNBGY4u+2O22mUNAKzo=
+
+Name: assets/audio/prop_use.mp3
+SHA1-Digest: 3IZ/unQ319O6qKZyeeH5jiyc3Pw=
+
+Name: assets/ccb_published/MainScene/InstructionD_Back.ccbi
+SHA1-Digest: +eh77Xd3kjBo01GAbhiztGtEVK4=
+
+Name: assets/ccb_published/CheckPoint/ckp_1_13.ccbi
+SHA1-Digest: 3G4gS1zlDUfj065Av0GWgf5VlFU=
+
+Name: assets/ccb_published/MainScene_B/AirdropMaterialLayer2.ccbi
+SHA1-Digest: A+YVDCRPQ2VXKbP9RGNZ8ipkSy0=
+
+Name: res/layout/com_tencent_ysdk_icon_icon_view.xml
+SHA1-Digest: QUfvCCeXrxagX0DWBwtz70IHltM=
+
+Name: assets/CCBRes/battleScene.plist
+SHA1-Digest: bWxIhMRKxszu5jlq//90pFHoJfU=
+
+Name: res/drawable/com_tencent_ysdk_icon_state_bg_normal_bd.xml
+SHA1-Digest: uTUvsykdBNGiu5SsEBv0XgZ9PLY=
+
+Name: assets/newImage/portScene/soldierEffect.png
+SHA1-Digest: LJFphwLbuAqO6V/TFYdX0Am5rU0=
+
+Name: assets/boatImage/story/chapter/story_chapter_2.jpg
+SHA1-Digest: /P3NTjR6Dx/55Q0elPl7EhRzwns=
+
+Name: assets/newImage/activity/acSendGeneral.pvr.ccz
+SHA1-Digest: taZJUzUkkxyI7HBu1jSHxDfrheE=
+
+Name: assets/ccb_published/MainScene/Plane_Come.ccbi
+SHA1-Digest: GMKgpWQqihmfop/6/ygUHqUmYzE=
+
+Name: assets/boatImage/pressedPkg/mainUIImageNew2.plist
+SHA1-Digest: s1tCaKjCojlh/nA/TEi3r8/kD8I=
+
+Name: assets/newImage/activity/xing.png
+SHA1-Digest: B25xmy9j10bbz0+zjzxFfIY4pxg=
+
+Name: assets/ccb_published/MainScene_B/NewYearFishAnim.ccbi
+SHA1-Digest: HfhfNGPwl8qJJbRiYe6ZreH5qiE=
+
+Name: assets/ccb_published/CheckPoint/ra5_tk18_9.ccbi
+SHA1-Digest: WsvRTBgWG6Qf98s+edWsv0oifIY=
+
+Name: assets/ccb_published/MainScene/world_plane_dir_6.ccbi
+SHA1-Digest: Y6oFMy5fck3/R8HDD83RfdTZlZg=
+
+Name: assets/newImage/activity/speedupDiscImage.pvr.ccz
+SHA1-Digest: U24/6tlCyHNg0dx/nGHyG/2T6kk=
+
+Name: assets/public/btnParticle/worldMoveParticle.plist
+SHA1-Digest: uVH34SJYpTNWRlw4RRPYg0vcIhQ=
+
+Name: res/drawable/com_tencent_ysdk_icon_admin_launch_logo.png
+SHA1-Digest: d4T2A8NZRoHpaHY/YFOvsuvpQ14=
+
+Name: assets/newImage/newYear/newYearImage.plist
+SHA1-Digest: VXlIRC803+NYmPrPtaqVa69Qayw=
+
+Name: assets/CCBRes/tk15_1.plist
+SHA1-Digest: CrXtfNjfOke09lpcCafP8uyhNTc=
+
+Name: assets/newImage/mainUI/mainUI.plist
+SHA1-Digest: 7fa/AxfDV+U0wVDWl9LnB7tn43Y=
+
+Name: assets/CCBRes/tk14_2.pvr.ccz
+SHA1-Digest: 1NJI3vXb/EGf+wQv1AhEzWeilgA=
+
+Name: assets/ccb_published/MainScene/world_plane_dir_4.ccbi
+SHA1-Digest: MeoYsujwc5S1lD0a1DWmyjlbADQ=
+
+Name: assets/newImage/mainUI/liebingHoom10013.plist
+SHA1-Digest: 4K+ilWti2y8JPl1thJKZy5tU/fI=
+
+Name: assets/boatImage/story/chapter/story_chapter_17.jpg
+SHA1-Digest: ddONjD3W0gJBHGUHjJPzkD7yWRI=
+
+Name: assets/newImage/battle/BattleResult.plist
+SHA1-Digest: nGZgxFAqvnhphhcJYxZJlKR2Yfo=
+
+Name: assets/boatImage/pressedPkg/mainIconNew.plist
+SHA1-Digest: P4aOhQgD6P8IxmOoDz2mHIJJmBU=
+
+Name: assets/ccb_published/TankNode/tank1/Tank5_2.ccbi
+SHA1-Digest: T5GCcBVdm8tfC9KkKj3wWINrfrc=
+
+Name: assets/ysdk_hackdex.jar
+SHA1-Digest: N+tmFAXr4MrZnoPtYlzyvC4a5hI=
+
+Name: assets/newImage/particle/festivalSpring/pao02.plist
+SHA1-Digest: woruAV9Hmt30w44cqws5FV43HNg=
+
+Name: assets/audio/Fight_VS.m4a
+SHA1-Digest: EIteK1IxV6I0+fS0zJR3BRmf7FM=
+
+Name: assets/audio/story_bomb.m4a
+SHA1-Digest: RqSbNqX3m7yPVET/zOUFBD/5OXk=
+
+Name: assets/ccb_published/WarriorQueue/TankQueue.ccbi
+SHA1-Digest: 6cnYCzIk5xJZjq+jztlLVzGTTQk=
+
+Name: assets/public/numIcon0.png
+SHA1-Digest: IbFvSJzZwX0lAt1sSouqdX7tsQg=
+
+Name: assets/ccb_published/MainScene/Plane_ack.ccbi
+SHA1-Digest: naEKqqxvYHLbbFCVvijMJ5jZ5s8=
+
+Name: assets/yyb_appdetail_showmore.png
+SHA1-Digest: XZfoqTP4iYo9uLRrqWXGpj/YMUs=
+
+Name: assets/scene/NV1.png
+SHA1-Digest: JNg1Udhj3zcWhU9+BNXRjeLk5U0=
+
+Name: assets/ccb_published/BattleScene/BattleSceneUI.ccbi
+SHA1-Digest: uNqjtlQkXBQlU/XvRs1PIV4nc/0=
+
+Name: assets/newImage/portScene/yan01.plist
+SHA1-Digest: vOc8PW6Q9+0KQW1iI1+QC2DiEBo=
+
+Name: assets/newImage/activity/acMayDayImage.plist
+SHA1-Digest: Jb4hIXQ61hOqvjq9yKivw0/IQjU=
+
+Name: assets/CCBRes/tk14_1.pvr.ccz
+SHA1-Digest: Nal2CPE7jgQNwWvXGO28M2+Bmek=
+
+Name: assets/public/dengluchainSys/xialuo1.png
+SHA1-Digest: iSjZRDA5FXjKKCUU4wIpLbUZIqM=
+
+Name: assets/newImage/portScene/runestowerAnim.png
+SHA1-Digest: 2bCjaurE/6EZozcUCZlmHSIFKzI=
+
+Name: assets/fonts/Marker Felt.ttf
+SHA1-Digest: Ul8qSkVFD87LPYpf1H07D0hPYps=
+
+Name: assets/public/particleSmog.png
+SHA1-Digest: UOF9LGO1MJi4biuVzihXty9Whbw=
+
+Name: assets/newImage/story/shengli.jpg
+SHA1-Digest: p0wCu3P8IYa3WDgS7bex0UyM44U=
+
+Name: assets/boatImage/story/chapter/story_chapter_8.jpg
+SHA1-Digest: K3s3kQyF6z6K945ucF912CoD0Y0=
+
+Name: assets/ccb_published/TankNode/tank4/Tank14_2.ccbi
+SHA1-Digest: aXONMVYdnvMK+CdKlvnxZA598zg=
+
+Name: assets/newImage/activity/aczhaobingmaima.pvr.ccz
+SHA1-Digest: 0h+m/3kQwZ9Ebu/sSakB+zUNjb8=
+
+Name: assets/ccb_published/MainScene/XiyiAnim.ccbi
+SHA1-Digest: DhJGLu2jkMW3lc1juIMIpfFI9o0=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_real_name_btn_close.xml
+SHA1-Digest: jS39O7QE2Wi4v7itlPOyS/3VK4g=
+
+Name: assets/public/btnParticle/shouchong.png
+SHA1-Digest: 3bSWRENFcvIc8pLAcjmS0DrhTC8=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_real_name_check_nor.png
+SHA1-Digest: k6+jmbhcRQhEU2QE19QV9XrryGM=
+
+Name: assets/scene/homeMap_03.jpg
+SHA1-Digest: HX/bP5TwSLRloaTBvhjYqfTIfJk=
+
+Name: assets/CCBRes/tk10065_2.pvr.ccz
+SHA1-Digest: 8NERtgiM3NDmyoW3jgtYknvRfco=
+
+Name: assets/public/number_Power.png
+SHA1-Digest: hq+I49+pDsBUOntonQizTjWEJOw=
+
+Name: assets/newImage/updateImage/updateImage4.pvr.ccz
+SHA1-Digest: g7pdzZ/3vwlk7e/kqvJxMYJRRLY=
+
+Name: lib/armeabi/libYSDK.so
+SHA1-Digest: N9QGZBQ8XvSEm8IQ23rrRET0ONo=
+
+Name: assets/ccb_published/worldRebel/wRebel_55.ccbi
+SHA1-Digest: XHnBxtRwlxaOe12WYdo+r7uEVGI=
+
+Name: assets/audio/buildLevelUp.m4a
+SHA1-Digest: QN2UeSllBMsHdvjyVUrIyHzDCdY=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_real_name_warning.png
+SHA1-Digest: AHPpWP4+5e5yEOL4eiOBVxbliPg=
+
+Name: assets/newImage/particle/frontRise.plist
+SHA1-Digest: cWp4Rm41KTIznocIai5I1gZqJ9w=
+
+Name: assets/newImage/uncompress/unCompress.plist
+SHA1-Digest: 8w9zpecIFETwUi0vHbox1gjMeRY=
+
+Name: assets/audio/attack2.m4a
+SHA1-Digest: +MuVtUkcHXgBBdjZd459/vF9b+c=
+
+Name: assets/CCBRes/tk11_1.pvr.ccz
+SHA1-Digest: bR+j3PXrJrWIlMIpjo7uQGStnZw=
+
+Name: assets/newImage/activity/acDoorGhost.pvr.ccz
+SHA1-Digest: vQTQAPw3/ahsI7RQThVDoFJl/TM=
+
+Name: assets/ccb_published/TankNode/tank1/effect/HitBulletEffect1.ccbi
+SHA1-Digest: oXgT/BquK44JXIsWz6hPLaBPZ/I=
+
+Name: assets/ccb_published/CheckPoint/b8.ccbi
+SHA1-Digest: rpX4uJJCInJ72YSV7ECbSPCQy3Y=
+
+Name: assets/public/display.png
+SHA1-Digest: KoUFN+WZTNpBzOaOGAi1kzZzZKI=
+
+Name: assets/newImage/mainUI/liebingHoom10024.plist
+SHA1-Digest: gw+f1DGDWPIyD+NdNLNjESAcg1g=
+
+Name: assets/public/btnParticle/worldMoveParticle.png
+SHA1-Digest: rDtTubmYFgC2nDOx/vTz2EpsnAk=
+
+Name: assets/newImage/activity/jifen01.png
+SHA1-Digest: dc2Xd9p2xRXv4iXMGRO0KtadeVE=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: 4VxYX5IVCJ/6vXyvU9j9MgpgjWA=
+
+Name: assets/newImage/updateImage/updateImage3.pvr.ccz
+SHA1-Digest: DdODsQa7OIfwF/cuB+TUNDeTW54=
+
+Name: assets/newImage/bossParticle/huoxing.png
+SHA1-Digest: 5zPhezhyNrgJZRN386wEjZ+W9nw=
+
+Name: assets/scene/homeMap_04.jpg
+SHA1-Digest: gVebalt4QB0mZRh4QyrjY8YRSr8=
+
+Name: assets/newImage/portScene/lightlineAnim.plist
+SHA1-Digest: tSyno3AHQr+WbdXj3iTDiPm+KO4=
+
+Name: assets/public/armorMatrix.pvr.ccz
+SHA1-Digest: f6kGmb0lljUWos+l7DMFiAFnsmQ=
+
+Name: lib/armeabi/libPTTrackerNativeEncrypt.so
+SHA1-Digest: qHbVY0zpa5mJbhMaUI0j1Xw1E+s=
+
+Name: assets/boatImage/story/chapter/story_ui_bottom.png
+SHA1-Digest: bXtEJirjjawmGCbPq9Gsr6fvdbY=
+
+Name: assets/CCBRes/decorate_map_1.pvr.ccz
+SHA1-Digest: rsDx3iirZZa9Id46lLtOpbTunYM=
+
+Name: assets/PTTrackerSDK.xml
+SHA1-Digest: +wLg4dc8brrTThPYcASmAfdO16s=
+
+Name: assets/audio/building.m4a
+SHA1-Digest: uNo3n7rY5BJuIv8UxWK2vMt4ZpM=
+
+Name: assets/ccb_published/WarriorQueue/WarriorUi7.ccbi
+SHA1-Digest: 1KL7rtIGmdsv7PXBdnxqqBeeuhw=
+
+Name: assets/newImage/soldier/soldierType4.pvr.ccz
+SHA1-Digest: 6NbGCNywtzLH+cw4OrHBOZac3wg=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_real_name_check_sel.png
+SHA1-Digest: gxwCmCTf1Gusi5wSaiWBnzmMki0=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_real_name_checkbox_style.xml
+SHA1-Digest: 9i8ajzM00t6G4slHk17hiOEhKds=
+
+Name: assets/CCBRes/tk20.pvr.ccz
+SHA1-Digest: 5tvWtuMHTIbkbExksUjM7WvjpA8=
+
+Name: assets/ccb_published/MainScene/PatrolAnim.ccbi
+SHA1-Digest: zcWf9hJfTS20DKRjBkcy6gAmz74=
+
+Name: assets/newImage/particle/trim_activitybg.png
+SHA1-Digest: miolM9DunuRb7dtNuwKM56QXVBQ=
+
+Name: assets/newImage/soldier/soldierType2.pvr.ccz
+SHA1-Digest: Ot7IrcKSuTky8bfzEx6mjGD0BnE=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_icon_icon_weak.png
+SHA1-Digest: sDE/4O8B8IzxWgzR2uwzMP4JQfU=
+
+Name: assets/public/btnParticle/changeMainUI.png
+SHA1-Digest: TXU+hHaoikj78+FwxbJd4x/zXG8=
+
+Name: assets/ccb_published/Activity/ActivityLight.ccbi
+SHA1-Digest: nyzl6TIvcJrXLplkO7cjwQnjRKk=
+
+Name: assets/boatImage/pressedPkg/mian_city_anim.pvr.ccz
+SHA1-Digest: 417N7OPMAOFbut1i1nsC/Ionqb0=
+
+Name: assets/public/btnParticle/starBgParticle1.plist
+SHA1-Digest: pivIhZ7NcIvvbWVq7kXy0mQrbpc=
+
+Name: assets/newImage/particle/zuanshi_3.plist
+SHA1-Digest: 4FxFSeV4Dp3pqNIF7jIFLGBe/Lk=
+
+Name: assets/ccb_published/MainScene/Xiyi_zong.ccbi
+SHA1-Digest: wOefgLUDV02vQ3d+LxHspWL+s7M=
+
+Name: assets/audio/activity_hall.mp3
+SHA1-Digest: T8hTNzoYzShYnDw+1QPJqj3IeHI=
+
+Name: assets/public/changeNameDownBg.png
+SHA1-Digest: iUnLCb3lWNdHEsYsnkB+c7OguLA=
+
+Name: assets/newImage/activity/orange.png
+SHA1-Digest: H2QawjM0wOt8jSb/bNI0xkUYCj8=
+
+Name: assets/boatImage/pressedPkg/shamImage.plist
+SHA1-Digest: jcSYCDASJy4loto0NA6FoQJj9XA=
+
+Name: assets/newImage/particle/festivalSpring/lipao01.plist
+SHA1-Digest: laaN5wygBDAQCEzWlU8FWsGNvD0=
+
+Name: assets/newImage/newPayment.pvr.ccz
+SHA1-Digest: jOSf8Hx2gl1gf4/gagqy0RyWJ0Y=
+
+Name: assets/public/shengDanKuangHuanPic/huangse.plist
+SHA1-Digest: 3NDmYpTnPwZ/gCeXORx6lHF7Upk=
+
+Name: assets/audio/copter_fly.m4a
+SHA1-Digest: L7aM8VXvDQmMzHrpP1m0XyiensA=
+
+Name: assets/newImage/activity/orange_star.png
+SHA1-Digest: dgP5/NigXtGzA7t+egSb+PMeQuE=
+
+Name: assets/CCBRes/hjc_8.plist
+SHA1-Digest: qaRcl7dlr+nGT9GFPRsUw7VsAfU=
+
+Name: assets/newImage/activity/jifen.plist
+SHA1-Digest: /nioWfC0YF3i+qrOjXRLZrd/gb4=
+
+Name: assets/newImage/particle/christmas_piao04.png
+SHA1-Digest: 1jg58sC0zE4Is10INNgiSZjz4gM=
+
+Name: assets/ccb_published/CheckPoint/tk1_tk1_7.ccbi
+SHA1-Digest: /jQL6M/DZ2dq8ik3mQhDlq8/UJA=
+
+Name: assets/yyb_topbar.9.png
+SHA1-Digest: LLKtjzYthbE3BkyGk+0D+lEJsaQ=
+
+Name: assets/public/allianceiconres/leftWing.png
+SHA1-Digest: j2g7ZewMS0Px0FWS90J/mvn9gpM=
+
+Name: assets/CCBRes/hjb_2.pvr.ccz
+SHA1-Digest: ll8E/NOpkEWYcHv+dh1x31gDugs=
+
+Name: assets/ccb_published/MainScene/PatrolLayer2.ccbi
+SHA1-Digest: +2qwyAaOZiJ8FCVEQny2mo7QDXk=
+
+Name: assets/public/btnParticle/shibai.plist
+SHA1-Digest: kFKSaNnDQwkdXSlX0Yhr8ztPzl4=
+
+Name: assets/ccb_published/TankNode/tank4/Tank14_1.ccbi
+SHA1-Digest: jDG9z/Aj/IyDgZeXzGoVII9/4L8=
+
+Name: res/drawable/com_tencent_ysdk_icon_state_bg_normal_bd_pressed.xm
+ l
+SHA1-Digest: wxQUcrDzEFwij9vlj1wiXV6rSEc=
+
+Name: assets/public/boomEffect/fanrongdu02.plist
+SHA1-Digest: kdZHWFOuD5XdYEeyPAF8WyFdTcU=
+
+Name: assets/newImage/portScene/starLand.plist
+SHA1-Digest: cBj/5y26yyR7rWLnfIvsAJOfOO0=
+
+Name: assets/public/SMOKE.png
+SHA1-Digest: nO7UOIxw32u+aViiu8sqOxY8onM=
+
+Name: assets/newImage/portScene/ac.png
+SHA1-Digest: zm16CvRsFzEn+oMDo43KQS+M584=
+
+Name: assets/newImage/particle/rewardconter2.png
+SHA1-Digest: 1PfYaKNTHT/fWBDqWRtFCSYKTxY=
+
+Name: res/drawable/com_tencent_ysdk_icon_common_errorpage_btn_selector
+ .xml
+SHA1-Digest: ROtWD1gD1he2ZZ4nTOHQc8Vy7+w=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: IV3jWrfAIICSh5AzfQiV8xwAjsQ=
+
+Name: assets/ccb_published/MainScene/GeneralAcademyBuild.ccbi
+SHA1-Digest: jq6AFT0l6oZ+jWxacrS8LP8yJsc=
+
+Name: assets/ccb_published/MainScene/AggregationBuild.ccbi
+SHA1-Digest: UhuX3z4prEanGyHZqu9ZlVkCd/M=
+
+Name: assets/ccb_published/MainScene/MainBuild_5.ccbi
+SHA1-Digest: 2lcWduUkCIcZWSRUWy1Cv/Fr+/0=
+
+Name: assets/public/btnParticle/accessoryLevelUp.png
+SHA1-Digest: cOHsuzME02Hwl9s2dNe73Z3aMmE=
+
+Name: assets/ccb_published/TankNode/effect/trail_2.ccbi
+SHA1-Digest: 93CZHVrWhr6UfWp4GBIwyLLpnUg=
+
+Name: assets/audio/levelUp.m4a
+SHA1-Digest: bad+Ifi+ipw2Rqbg9vyH5SIZk7E=
+
+Name: assets/boatImage/newCommon/multiPay.plist
+SHA1-Digest: NtGq9pqtmAv4li5jL5rtHmhO/e8=
+
+Name: assets/ccb_published/MainScene/treeB.ccbi
+SHA1-Digest: O9tEL3fvNXciBl22dF2hyIqt35c=
+
+Name: assets/CCBRes/tk7_1.plist
+SHA1-Digest: Uwg5VB8UP69pvhhOHTAbB4Dofr8=
+
+Name: assets/CCBRes/tk6_2.plist
+SHA1-Digest: WtogUnA3dMQTbVnUgZt8UiX2LZ8=
+
+Name: assets/scene/lodingxin1.jpg
+SHA1-Digest: c8UOX2l5CC64YzdPLSwSQoaP/eI=
+
+Name: assets/ccb_published/Activity/ActivityIcon.ccbi
+SHA1-Digest: iNevIKtW+E/A/rwGLtslYe37q2Y=
+
+Name: assets/ccb_published/MainScene_B/ChristmasLayer2.ccbi
+SHA1-Digest: SNrAJ7quuEG7L0KgXSKvz2uPgSk=
+
+Name: assets/public/changePhotoBg.png
+SHA1-Digest: 5LVSokML7nl8XcysyYz+/Sgdkxs=
+
+Name: assets/ccb_published/CheckPoint/ra3_2.ccbi
+SHA1-Digest: NnRSFcAwcMFr/TiniCUO/ZXP7Ss=
+
+Name: assets/public/display.plist
+SHA1-Digest: /MYkJAvgzcGudirqJfTn3grHxYI=
+
+Name: assets/newImage/mainUI/vipNew.pvr.ccz
+SHA1-Digest: QWBDz23QkwtdI+otp4VwSjV7gF0=
+
+Name: assets/audio/prop_click.mp3
+SHA1-Digest: 5OxlAy6U3rf57ixxksHV0IPQZdo=
+
+Name: assets/ccb_published/TankNode/tank1/Tank3_2.ccbi
+SHA1-Digest: pG5STrJQtrROi2bC8oyT28PswJ8=
+
+Name: assets/scene/logoImage/Logo_zh.png
+SHA1-Digest: mAq0P8Q8KKegh7IrKEnzj+Da7D8=
+
+Name: assets/ccb_published/TankNode/tank4/Tank11_2.ccbi
+SHA1-Digest: ebpwgv2oBsqmJk/mBXDbDLQOd7E=
+
+Name: assets/ccb_published/WarriorQueue/liebingHoom10015.ccbi
+SHA1-Digest: zTDaOIPcJaXAGZx1Buwb4TFRLck=
+
+Name: assets/CCBRes/tk10045.plist
+SHA1-Digest: qhkIQJB5ceCBstQITuQ29aq5Ppk=
+
+Name: assets/ccb_published/CheckPoint/tk1_tk1_tk1_14.ccbi
+SHA1-Digest: /Gl2BtLvcIdEgrlFOINJN3sChFo=
+
+Name: assets/public/acDouble11.pvr.ccz
+SHA1-Digest: SZ4k/DMrPe0TwtyL7V9A70RKA2A=
+
+Name: assets/ccb_published/MainScene/ControlCenterBuild.ccbi
+SHA1-Digest: T+23dIyOZ/MsgdMl3XuyRNIUQc4=
+
+Name: assets/audio/battle_lose.m4a
+SHA1-Digest: PRjdQKHuwZr4OD7eJRxXORXSf/o=
+
+Name: assets/ccb_published/MainScene/treeA.ccbi
+SHA1-Digest: Qp+W96D5YwdkbSdBXfgWtnctg00=
+
+Name: assets/public/btnParticle/caiji02.plist
+SHA1-Digest: VwRUHA48KZw7CMNd4uaQQVoIIdU=
+
+Name: assets/CCBRes/tk16.pvr.ccz
+SHA1-Digest: xO+fziI3vdanUPU+eExQFeUp1JE=
+
+Name: assets/ccb_published/TankNode/tank1/effect/tk99999Barrel.ccbi
+SHA1-Digest: SDt0Ur+NR1nV6x5ji5MgRlnGuBA=
+
+Name: assets/newImage/particle/battle_mt_rain_1.plist
+SHA1-Digest: hZaLS0aGTp2s6Ea1Xw3CM1lrr7c=
+
+Name: assets/public/warehouseDibiao7.png
+SHA1-Digest: OgFAjeitLzyLVKfRtM2TIlBVdY4=
+
+Name: assets/ccb_published/CheckPoint/tk5_tk5_tk5_14.ccbi
+SHA1-Digest: 3mrusoZtX5ZW+KsNqjTz8tApkJc=
+
+Name: assets/ccb_published/worldRebel/wRebel_05.ccbi
+SHA1-Digest: mdL8DpUouAGO138rjRlBGwPGCc0=
+
+Name: assets/public/boomEffect/fanrongdu02.png
+SHA1-Digest: XxjETNyqikSMoCnH4/UXw8aFBvk=
+
+Name: assets/ccb_published/TankNode/tank1/Tank2_2.ccbi
+SHA1-Digest: SJUOShCJXJE2wLDhZ/LgixDb6xA=
+
+Name: assets/CCBRes/tk18.plist
+SHA1-Digest: XiS8aXFHHjkWD2bX5QpBRG9u/KQ=
+
+Name: assets/ccb_published/MainScene_B/PatrolDogAnim_long.ccbi
+SHA1-Digest: +UBgj9P+NcfLryF9sIZ6FCpCAbs=
+
+Name: assets/newImage/portScene/flag_2.png
+SHA1-Digest: pa+Dmk3qySTMAz+FRwOWLaCKUgM=
+
+Name: assets/boatImage/pressedPkg/mainUIImageNew2.pvr.ccz
+SHA1-Digest: 6eDWfRT9aCv6YfKRNuuBe0AU7iI=
+
+Name: assets/yyb_icon_back.png
+SHA1-Digest: rz2iRJOIylJ3El/3FMNYEbzutiY=
+
+Name: assets/audio/attack1.m4a
+SHA1-Digest: 5jw8hOTc9+HsYYJeTOiMQHDbjAg=
+
+Name: res/layout/com_tencent_ysdk_real_name_main.xml
+SHA1-Digest: pMJ1aQhFC2yn6ej14aXQLjHWoMs=
+
+Name: assets/ccb_published/MainScene/XiyiAnimLayer.ccbi
+SHA1-Digest: bnDFDf/xYZjaO3n2h0gPNW+JBiM=
+
+Name: assets/CCBRes/tk12_1.plist
+SHA1-Digest: Tosmw5sJ6k781osmAObfiXbyAWU=
+
+Name: assets/ccb_published/MainScene_B/PatrolLayer4.ccbi
+SHA1-Digest: Zsi4B9K2UPCOButmFZtyy3cpjfk=
+
+Name: assets/ccb_published/TankNode/tank1/Tank1_1.ccbi
+SHA1-Digest: 1nB8s10lU5DwXy1+EOLAm6316Ms=
+
+Name: assets/public/boomEffect/fanrongdu.png
+SHA1-Digest: ozGR2iNH348QcIdcgLBDrpXSXNI=
+
+Name: assets/ccb_published/TankNode/tank2/effect/FireEffect1.ccbi
+SHA1-Digest: LHWxusDq0L1DpoKoQGoFtFKnJhE=
+
+Name: assets/config.xml
+SHA1-Digest: 4XwwjlaJhG7FqVM7z+CdijsrI2E=
+
+Name: assets/CCBRes/tk9_1.pvr.ccz
+SHA1-Digest: 2n8E5mABwyFvt9MlbxCB2RfeeJE=
+
+Name: assets/newImage/particle/christmas_piao02.plist
+SHA1-Digest: BTmEzh3g63a+BgxoT2V1zvlNji4=
+
+Name: assets/newImage/world/worldBaseBoom.pvr.ccz
+SHA1-Digest: LbeJOdtnSeqYzYCFzQaqnsYD6ZA=
+
+Name: assets/newImage/activity/purple_star.plist
+SHA1-Digest: z7WOPPjVw4RUmP+rxyGXaTZxRwY=
+
+Name: assets/ccb_published/CheckPoint/tk3_tk3_tk3_14.ccbi
+SHA1-Digest: YXhMIfvF0DyENkz08AlvC7BrGLg=
+
+Name: assets/ccb_published/MainScene_B/HelpDefenseBuild.ccbi
+SHA1-Digest: oaoF/ZOgsa0FIKBUnn/q45lYHNY=
+
+Name: assets/newImage/activity/acDoorGhost.plist
+SHA1-Digest: N851/vBWbcMq/9EiJV01V4n4kws=
+
+Name: assets/ccb_published/TankNode/tank8/effect/HitBulletEffect1.ccbi
+SHA1-Digest: IyOtW6CEy55cdWT1StXCsDEbGgo=
+
+Name: assets/ccb_published/WarriorQueue/WarriorUi4.ccbi
+SHA1-Digest: tpiGbN+IS5XQ5KRQCBMwcej1N78=
+
+Name: assets/newImage/activity/mibaoImage.plist
+SHA1-Digest: k/9ZhJTyKx1bufZ9oaQ83BloxhM=
+
+Name: assets/ccb_published/CheckPoint/ra5_tk20_9.ccbi
+SHA1-Digest: MKfbZLeq3PU6nxvms1oFBneTQIg=
+
+Name: assets/public/armorMatrixCommon.pvr.ccz
+SHA1-Digest: R/7sfSPb6GLiNq3zadyIsbTFMpA=
+
+Name: assets/ccb_published/MainScene/TankFactoryBuild.ccbi
+SHA1-Digest: w53pAMb6cmw0fUrgAUn5Qy4U1c4=
+
+Name: res/layout/activity_ads.xml
+SHA1-Digest: OHTwuYgI6XyWf1uqJ55q/tNy/ZA=
+
+Name: assets/public/shengDanKuangHuanPic/hongse.png
+SHA1-Digest: AbkaFq3/PnnxL0bVbWW/iAWRavE=
+
+Name: assets/public/btnParticle/lotteryBombParticle.png
+SHA1-Digest: FwlwTHmKodcH9FBqx6JQEkCWciA=
+
+Name: assets/public/boomEffect/fanrongdu.plist
+SHA1-Digest: RXbV1fod/s8BZjh8qq6qnOzVmP4=
+
+Name: assets/ccb_published/CheckPoint/tk2_6.ccbi
+SHA1-Digest: pghnmDwMdYhrCjHSEq15eKWBXKc=
+
+Name: assets/ccb_published/CheckPoint/ckp_1_1.ccbi
+SHA1-Digest: YM4XlaJ4G5wMxZqDmrXjjbnT1hk=
+
+Name: assets/newImage/soldier/walkingSoldier.plist
+SHA1-Digest: iBlc014JUdkYSPFajP6kuSBHQmM=
+
+Name: assets/boatImage/pressedPkg/old_main_ui_image_2.pvr.ccz
+SHA1-Digest: WfrfyY19sNh+Lk26Exe/g9JqELo=
+
+Name: assets/boatImage/pressedPkg/story_star_batch_image.plist
+SHA1-Digest: 5qL12SYUueOCGfKlrvQRPBYbD0M=
+
+Name: assets/boatImage/pressedPkg/shamImage.pvr.ccz
+SHA1-Digest: fi8sYPjVF8WHX3i3UnRHzV2vsus=
+
+Name: assets/public/armorMatrix.plist
+SHA1-Digest: xiUR49RukZ+LG6qCAfjDGEQ+ZrQ=
+
+Name: assets/newImage/mainUI/liebingHoom10021.plist
+SHA1-Digest: 2RC4wIDkm8v7LaeK+6LGWNBQn48=
+
+Name: assets/ccb_published/MainScene/PropFactoryBuild.ccbi
+SHA1-Digest: XyrUyLWegluqb7KAt/UEcgvxFWw=
+
+Name: assets/public/hero/heroImage.pvr.ccz
+SHA1-Digest: xrO9HDPIFf8AwTpvX5q6NuG/PsA=
+
+Name: assets/CCBRes/tk10055_2.pvr.ccz
+SHA1-Digest: lDtd490nX84YPRsKNQvq2BainXQ=
+
+Name: assets/boatImage/worldMap/richMineAndLandForm.plist
+SHA1-Digest: j0JaqXxcw7D1WFvOitXxx5dd/fw=
+
+Name: assets/ccb_published/TankNode/tank1/Tank99999_1.ccbi
+SHA1-Digest: TdrEE7uMHOjpUO1a/RJ/UmZXc+g=
+
+Name: assets/public/armorMatrix/armorMatrix02.png
+SHA1-Digest: hVds9HieEdEIIXl+9lw4lPKwOHs=
+
+Name: assets/CCBRes/tk11_1.plist
+SHA1-Digest: C5bNT0GxGGD969kJMfPjvV2MReA=
+
+Name: assets/newImage/bossParticle/huoxing.plist
+SHA1-Digest: XA06eiSE1042pUEF7QByNPc/6yM=
+
+Name: assets/scene/homeMap_01.jpg
+SHA1-Digest: pGs8V3o2OS3V2EQ+pqF8sK1ElWU=
+
+Name: assets/public/btnParticle/starBombParticle.png
+SHA1-Digest: YBgFtYOiU4IAinfdBxOrE64R+R0=
+
+Name: assets/newImage/world/bookmark.pvr.ccz
+SHA1-Digest: 2fjU0879TWGZ6032MqT18dgvKZw=
+
+Name: assets/newImage/updateImage/updateImage3.plist
+SHA1-Digest: /OM+gNp5mlMB8xTduhT3vJF3GLo=
+
+Name: assets/CCBRes/tk13_2.pvr.ccz
+SHA1-Digest: c5yeL3pn2ifYayov2l+lDZ26VFw=
+
+Name: assets/ccb_published/TankNode/tank1/Tank10045_1.ccbi
+SHA1-Digest: mTMFimv81IDLK4BnZ23BTDlMNHk=
+
+Name: assets/newImage/activity/acWanshengjiedazuozhan.plist
+SHA1-Digest: F9Yv2rpYpTvs7POYVanGMBhLzts=
+
+Name: assets/newImage/activity/acMonthlysign.plist
+SHA1-Digest: kgeWbJ+ErCWk+PIG1F8HhqGyM7M=
+
+Name: assets/newImage/particle/zuanshi_3.png
+SHA1-Digest: IzeCxXUy6++dta/nZoHGhwJrYDI=
+
+Name: assets/CCBRes/die.pvr.ccz
+SHA1-Digest: H1WJ1kSVvQIxiw894rBw1+tY344=
+
+Name: assets/public/newIconImage2.pvr.ccz
+SHA1-Digest: vVl4TN8yaOukLJM/0G/qdKRMtHE=
+
+Name: assets/ccb_published/TankNode/effect/die.ccbi
+SHA1-Digest: 6RnaqK2E1WuYeYHIab6Vy5jwXjo=
+
+Name: assets/ccb_published/MainScene_B/MainCityLayer.ccbi
+SHA1-Digest: EKaIVMUwOwPu4VWYvGc3h3nbL0s=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: AcAfw64rUsORfaBj+Knk8F40LmY=
+
+Name: assets/newImage/activity/acMayDaySupply.pvr.ccz
+SHA1-Digest: RaFwiIsjYJshGqMVd5MyCT4n70k=
+
+Name: assets/scene/logoImage/Logo_zh3.png
+SHA1-Digest: vQ3yT/rGjFUJyPan+xxANVnWxtU=
+
+Name: assets/ccb_published/WarriorQueue/liebingHoom10023.ccbi
+SHA1-Digest: qx8JXa3nVcc+z3DmNrap+zEgNC8=
+
+Name: assets/ccb_published/MainScene/BuildOperation3.ccbi
+SHA1-Digest: 6Xg30F+SDOBt9Ic2HDd+COcFWGM=
+
+Name: assets/newImage/particle/gaizao.png
+SHA1-Digest: ozGR2iNH348QcIdcgLBDrpXSXNI=
+
+Name: assets/ccb_published/MainScene/world_plane_dir_8.ccbi
+SHA1-Digest: CA24zCuW7iBAaMnYPrXbGuvzoqM=
+
+Name: assets/newImage/activity/acJifenFanPai.pvr.ccz
+SHA1-Digest: V8+NgM5T4SCrDXuVUAUoig5nkdU=
+
+Name: res/drawable-hdpi/tencent_rsdk_wx_normal.png
+SHA1-Digest: +LLFcWBHWTlkABdpa9O7R30u878=
+
+Name: assets/newImage/particle/christmas_xue01.png
+SHA1-Digest: H9br81d+vIXM85n53g+ZmyOBJc8=
+
+Name: assets/CCBRes/tk6_1.pvr.ccz
+SHA1-Digest: qu+KnCtA9F6BijLzQe2WF0/P3Jw=
+
+Name: assets/ccb_published/MainScene/MainCityLayer.ccbi
+SHA1-Digest: CSJhH/PuevZ6pexkK/WfQpVToTs=
+
+Name: assets/newImage/story/zhencha.jpg
+SHA1-Digest: qSucXtZDXLf3357LsnDhRO0s8iY=
+
+Name: assets/boatImage/story/chapter/story_chapter_4.jpg
+SHA1-Digest: oubSlda2r4lxvYBWsaYESWiQUFQ=
+
+Name: assets/newImage/portScene/sheepAnim.png
+SHA1-Digest: LLNh1z53CgTNz9o9tBN3YdcewUg=
+
+Name: assets/audio/login_music.mp3
+SHA1-Digest: SJ4iBpG+0H5IOIHsBSi5NzyAisw=
+
+Name: assets/newImage/icon/soldierIcon1.plist
+SHA1-Digest: yACD2XtR7gk2LgKHPbKXbrRp4bg=
+
+Name: assets/public/boomEffect/fanrongdu03.plist
+SHA1-Digest: AkfqEDN8bbD/jpvMDdfOraxND+A=
+
+Name: assets/newImage/newChristmas/christmasImage.pvr.ccz
+SHA1-Digest: BAaTVV8WmLd7v1i4vuqk9Ll9sHk=
+
+Name: assets/newImage/updateImage/updateImage2.pvr.ccz
+SHA1-Digest: DV88kweNhTnOnXdrc0+NJc4aYtM=
+
+Name: assets/newImage/particle/trim_activitybg.plist
+SHA1-Digest: Dmq/RoSpLlxib/Y6MhM8MECOA/Q=
+
+Name: assets/CCBRes/tk12_2.plist
+SHA1-Digest: OS8Vehw9/rO/WlDhNDXMhEQtsoA=
+
+Name: assets/newImage/bossParticle/lizixing.png
+SHA1-Digest: BGyyqDp9vkxKQ1sAIhaVABoJ0WA=
+
+Name: assets/newImage/mainUI/liebingHoom10065.plist
+SHA1-Digest: sFs5HkI6HTD0+cRfFMCE+PjjzOE=
+
+Name: assets/CCBRes/tk7_2.pvr.ccz
+SHA1-Digest: P9aopggteAq6CfhQXqGtATK9N7I=
+
+Name: assets/boatImage/story/chapter/story_chapter_14.jpg
+SHA1-Digest: TqrdsqJHxu6D7uP5pLsdnZ2d2WM=
+
+Name: assets/CCBRes/tk10055_1.plist
+SHA1-Digest: 3Zopsjh/LpKTf8bP6mMs+N5fCvk=
+
+Name: res/layout/com_tencent_ysdk_icon_sample.xml
+SHA1-Digest: 9GQAGaC9nAvCURBswj/f9UmQuog=
+
+Name: assets/supportPluginDebug.xml
+SHA1-Digest: vs8kusiqw7mS+fvETcRAmwxVMiM=
+
+Name: assets/audio/building_you.m4a
+SHA1-Digest: 2Ai3krl4p5ZBYCVx4mIRgfh+wsw=
+
+Name: assets/CCBRes/tk_1.pvr.ccz
+SHA1-Digest: rz3EpskGE2lgYbAvPY8JyQ1GPo4=
+
+Name: assets/boatImage/pressedPkg/buildingAnim.plist
+SHA1-Digest: jGHY4AtPKRe+uOH8fRzl8aRoP58=
+
+Name: assets/newImage/mainUI/liebingHoom10023.plist
+SHA1-Digest: j/vxnHnW5jztvm9PG4qV+ZQVE2o=
+
+Name: assets/scene/logoImage/Logo_zh4.png
+SHA1-Digest: 73OfVvZ9fLmskH2Zq6lIuGtMG2Y=
+
+Name: assets/ccb_published/CheckPoint/tk3_tk3_7.ccbi
+SHA1-Digest: ZvOSaav16tcpAGHvUQrQLv2MoBg=
+
+Name: assets/ccb_published/CheckPoint/StoryMapDialog.ccbi
+SHA1-Digest: nKpVh++nJS8nNt6Ye3QbTT6BO/g=
+
+Name: assets/CCBRes/tk5.plist
+SHA1-Digest: QH+WWB4ofX4c/d5TFzCiqp9DLBY=
+
+Name: assets/newImage/mainUI/liebingHoom10015.plist
+SHA1-Digest: t2oYwWRvgFsCdk59yRbLXlWjZvQ=
+
+Name: assets/ccb_published/CheckPoint/ckp_1_9.ccbi
+SHA1-Digest: TINfKAK36irZczkF7UcnKy8xsPg=
+
+Name: assets/public/defaultFBIcon.jpg
+SHA1-Digest: FAbjUtnRtzOSHvLh1vZauE3eIUA=
+
+Name: assets/ccb_published/TankNode/tank8/Tank19_1.ccbi
+SHA1-Digest: Da0sfUHDfKckOT4u3HC6aoMxBns=
+
+Name: assets/ccb_published/WarriorQueue/WarriorUi1.ccbi
+SHA1-Digest: TiWZLlM6wMOSELzPEjEhzwJz5Wo=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_icon_rednum.9.png
+SHA1-Digest: ktDSlv+aiA2QhnaIqzc8MgtiKYM=
+
+Name: assets/ccb_published/MainScene/InstructionB.ccbi
+SHA1-Digest: /dNZsYuLD2v/CApAdgrK0H24wgo=
+
+Name: assets/boatImage/pressedPkg/loading_circle_rotate.plist
+SHA1-Digest: 5aYQwG9XzwguTfRxVbFPCbSCi+k=
+
+Name: assets/CCBRes/tk9_2.plist
+SHA1-Digest: aUAl3vCcvc3zC2bozPkTXOGy/XI=
+
+Name: assets/public/allianceiconres/yum2.plist
+SHA1-Digest: 79P2OkV2WhV0+G56KzLBmQsMf6c=
+
+Name: assets/ccb_published/WarriorQueue/TankQueueNew.ccbi
+SHA1-Digest: Ey+tSsL8KrhEmnqsMQhWD30v3Ig=
+
+Name: assets/ccb_published/MainScene/InstructionE.ccbi
+SHA1-Digest: X+KnCBXsrLOiR5vaBU/ml4IL2Sw=
+
+Name: assets/newImage/functionImage/freeSpeedup.plist
+SHA1-Digest: zxHwSlExRPSNFw/dTtqfgOQAyYw=
+
+Name: assets/scene/logoImage/Logo_zh6.png
+SHA1-Digest: o0Lz2PhJ7hfuUGnxTF60rw/o8T0=
+
+Name: res/drawable/tencent_rsdk_qq_btn.xml
+SHA1-Digest: gm7Oc0svo49vska5KJjWwyXddAA=
+
+Name: assets/ccb_published/CheckPoint/ckp_1_6.ccbi
+SHA1-Digest: UFaGcvGrcKR1YhETNbzqa1SEuTQ=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_real_name_item_bg.9.png
+SHA1-Digest: 32wfjNh4/5yr4A+UJuChJfNVQ+M=
+
+Name: assets/CCBRes/tk2.plist
+SHA1-Digest: 5XLBrC5mpE8EnNn4r12vkcMmsEw=
+
+Name: assets/boatImage/pressedPkg/loading_circle_rotate.pvr.ccz
+SHA1-Digest: V3LiV6hem3EJG3iJuQbWqQKLHYo=
+
+Name: assets/newImage/particle/juntuan02.plist
+SHA1-Digest: kfw52XMOSnh3UKebB/V/5z0yzB0=
+
+Name: assets/public/dengluchainSys/xialuo.png
+SHA1-Digest: DzM4hyMhJM7vSLEIOnDaIJxeeYA=
+
+Name: assets/ccb_published/worldRebel/wRebel_25.ccbi
+SHA1-Digest: 29zPeeFnLYyhOKBevO2cnmkVT5w=
+
+Name: assets/ccb_published/MainScene_B/NewYearLayer1.ccbi
+SHA1-Digest: u0FqcnIyZZsJhdhXgsM2CrAYcVE=
+
+Name: assets/public/btnParticle/lotteryLightParticle.png
+SHA1-Digest: cOHsuzME02Hwl9s2dNe73Z3aMmE=
+
+Name: assets/public/xd2.plist
+SHA1-Digest: rUHXaF5JyO5EKvNon8uQAAsG1/0=
+
+Name: assets/newImage/particle/rewardconter1.png
+SHA1-Digest: IR82CIyxxS8k3smmMOjDlxOZizU=
+
+Name: assets/ccb_published/WarriorQueue/WarriorUi9.ccbi
+SHA1-Digest: YQl5Mi2INCJmQcxj+46AhrysFZE=
+
+Name: assets/ccb_published/MainScene/Plane_node_2.ccbi
+SHA1-Digest: nyQG46THxxe1IY2/Ss7ox8Ux6IE=
+
+Name: assets/CCBRes/tk10075.pvr.ccz
+SHA1-Digest: nLb8rVsZO/cyWZXh+xsM4Tz5I7s=
+
+Name: assets/public/allianceiconres/upPao.png
+SHA1-Digest: 7Of3aBHgt+4ctQE7wmihEebP7OA=
+
+Name: assets/newImage/world/worldBaseBoom.plist
+SHA1-Digest: RSx2ssvrM39vsG4UvCf++f78I/c=
+
+Name: assets/public/leftJiaobiao.png
+SHA1-Digest: JRcWDDO+nclnXgZpPBZvSq996Pk=
+
+Name: assets/newImage/activity/acMayDayImage.pvr.ccz
+SHA1-Digest: +2+JQ1EiOAdYkLgM/V918guDKeg=
+
+Name: assets/ccb_published/CheckPoint/tk5_tk5_13.ccbi
+SHA1-Digest: 5ZRvNK4Ei7W6+7ytitFlqpE/ZTs=
+
+Name: assets/public/yuanDanyactanhua/LevelUp_FireworksBoom01.png
+SHA1-Digest: kkQxSSU/Zfv3VWPKU4jF5K6dNcA=
+
+Name: assets/ccb_published/MainScene_B/UAV_Plane_B.ccbi
+SHA1-Digest: deHbybSl515wnf53MJyw2RERoAg=
+
+Name: res/drawable-hdpi/logo.png
+SHA1-Digest: INHlQkRnDzNqRSvyrERIjBkBF/A=
+
+Name: assets/ccb_published/MainScene/EquipmentFactory.ccbi
+SHA1-Digest: buzScB4ENe02foPZJlp5QMP52Aw=
+
+Name: assets/newImage/activity/orange_star.plist
+SHA1-Digest: Ua/Z4Y+ZM2TwXCCj7LCMyten38w=
+
+Name: assets/audio/star.m4a
+SHA1-Digest: OCd+SXIiYYBhio5OhOiO70y0HZI=
+
+Name: assets/ccb_published/TankNode/tank4/effect/FireEffect2.ccbi
+SHA1-Digest: ca0X1IJYs1rP5yL1C7x41n7sAt4=
+
+Name: assets/com.tencent.plus.gray_normal.png
+SHA1-Digest: P6NA2qEQVIJ4nGyUaUEQaY6LYrQ=
+
+Name: assets/scene/logoImage/Logo_de.png
+SHA1-Digest: MH5DDMm3WNMxx8VD4W1jd57J6XQ=
+
+Name: res/drawable-hdpi/tencent_rsdk_qq_pressed.png
+SHA1-Digest: V5uKahO2qGM+cstQANhJ+7c/Pws=
+
+Name: lib/armeabi/librsdk.so
+SHA1-Digest: bjW/gKTh8akuqFsvP60EnBV+IXs=
+
+Name: assets/ccb_published/MainScene/world_plane_dir_5.ccbi
+SHA1-Digest: laTbQeQkLL+ppU0x62GLRe0gQ/Y=
+
+Name: assets/ccb_published/MainScene/world_plane_dir_7.ccbi
+SHA1-Digest: VQhgJvwnz+WaGZO9TYuF1JOGwD0=
+
+Name: assets/public/btnParticle/shibai.png
+SHA1-Digest: CQ8zD167IQfuUdiqnCIdr7qKgVY=
+
+Name: assets/ccb_published/TankNode/tank8/Tank18_1.ccbi
+SHA1-Digest: wSEGQ9JIjgk4Cp29RT2ITOkpxcM=
+
+Name: assets/newImage/portScene/flag_2.plist
+SHA1-Digest: wuCWuIarPa2wtl4HS1uVbQw90+A=
+
+Name: assets/newImage/activity/bai_star.png
+SHA1-Digest: dgP5/NigXtGzA7t+egSb+PMeQuE=
+
+Name: res/drawable-hdpi/unipay_pic_load.png
+SHA1-Digest: 3iZPyaMGUMhh+Gsd23zAQ9KVvSM=
+
+Name: assets/newImage/mainUI/liebingHoom10011.pvr.ccz
+SHA1-Digest: cf0C5Tvjh1O8shJjk+7xR3DdQiA=
+
+Name: assets/newImage/activity/snow2.plist
+SHA1-Digest: Qo+v51OxfApD0NMwdH1lCrW5TPY=
+
+Name: assets/newImage/activity/acMainnotedetail.plist
+SHA1-Digest: n/f3u/3548o/xdNOwfWrYGKkKNw=
+
+Name: assets/newImage/uncompress/unCompress2.plist
+SHA1-Digest: VVeFckSJgF6pqAJao+9q8BLodcg=
+
+Name: assets/ccb_published/MainScene_B/NewYearRocket.ccbi
+SHA1-Digest: 9CMKw0ld0rlE6zltab42aUgno7g=
+
+Name: assets/ccb_published/MainScene/TankFactoryAnim.ccbi
+SHA1-Digest: UcVLsRK/cpGNk82NAdqa6LyuGDs=
+
+Name: assets/ccb_published/WarriorQueue/liebingHoom10021.ccbi
+SHA1-Digest: vcfNKfavHCgA3tp5ad+Jw0zkXF0=
+
+Name: assets/newImage/portScene/fountainAnim.png
+SHA1-Digest: cReubMbR6u7GXCa3WBoR3cbUfmw=
+
+Name: assets/ccb_published/MainScene/ChickenZong.ccbi
+SHA1-Digest: gZyG7coPYO6lr6bmORW/IabA0Bw=
+
+Name: assets/ccb_published/MainScene/PatrolLayer1.ccbi
+SHA1-Digest: i3go8qRKPFNY6UfGHs17hBMibsE=
+
+Name: assets/newImage/activity/acTheKingCrowned.pvr.ccz
+SHA1-Digest: 8s5p1FgQuVlg6Keny1m73z7I82E=
+
+Name: assets/public/btnParticle/shouchong01.png
+SHA1-Digest: 3bSWRENFcvIc8pLAcjmS0DrhTC8=
+
+Name: assets/public/changNameBg.jpg
+SHA1-Digest: fbAZj2KjNVoCSyoYOXRjRWgNQI4=
+
+Name: assets/ccb_published/MainScene_B/ChristmasLayer1.ccbi
+SHA1-Digest: QEuEl6dJ2i+ACdlfEBEOI5Fxqxw=
+
+Name: assets/newImage/building/buildingUpgrade.plist
+SHA1-Digest: FTjQ2rdC2urqzU/rt09Qg1c8ngE=
+
+Name: assets/ccb_published/TankNode/tank2/Tank10_1.ccbi
+SHA1-Digest: 94mPurN8z1sL9nUCPgaXeziN9M4=
+
+Name: assets/ccb_published/MainScene/RefitFactoryBuild.ccbi
+SHA1-Digest: BsqhzVtfwhT3ZrhpDnOszzxj2Hc=
+
+Name: assets/newImage/activity/purple.plist
+SHA1-Digest: IS9FYp4jaXUWuziQTEpSKIfewRM=
+
+Name: assets/CCBRes/breakShield.pvr.ccz
+SHA1-Digest: 5HavnB8uIA1XBpSaNsIQtsAtS2Q=
+
+Name: assets/ccb_published/WarriorQueue/WarriorUi3.ccbi
+SHA1-Digest: M6CmmHdejTKaepW/b2PW/nb3K6A=
+
+Name: assets/boatImage/story/chapter/story_ui_top.png
+SHA1-Digest: tfA7d1yLCgsXY/xyUz7fIAIzyo8=
+
+Name: assets/CCBRes/tk10065_1.pvr.ccz
+SHA1-Digest: aSmS7s9w9DXdD2pWGAvbCVnuLJ4=
+
+Name: assets/ccb_published/MainScene/InstructionC.ccbi
+SHA1-Digest: EWCSGhMyGsSC5zw3jUS+moIHAFU=
+
+Name: assets/newImage/particle/festivalSpring/caishen.png
+SHA1-Digest: 4zJw9Z/MfmUihnNQBQTPuiBbKuo=
+
+Name: assets/public/piaofuwu/goldAnimImage.plist
+SHA1-Digest: RbVxz1huCeIatlIrA88OX2vKB8Q=
+
+Name: assets/boatImage/worldMap/worldRes.plist
+SHA1-Digest: vEVXFL44tUWB10GXJr+sYBNcV7w=
+
+Name: assets/public/allianceiconres/biaozhi.plist
+SHA1-Digest: GeEYF7Tuke9Pv0oazZtejro84iU=
+
+Name: assets/newImage/portScene/flag_1.plist
+SHA1-Digest: jl2rsZGfrpr2vWrF4T9r8PvI+SU=
+
+Name: assets/audio/tank_3.m4a
+SHA1-Digest: Aj/3H7o9aOKK4beko332ZteCpKg=
+
+Name: assets/newImage/activity/acTheKingCrowned.plist
+SHA1-Digest: egpdzb1CMl0pdsZA8mDLAgV++kE=
+
+Name: assets/ccb_published/TankNode/tkBoss/tkBossBarrel.ccbi
+SHA1-Digest: agohQtyhoTVYZzi933yKSWc/FMY=
+
+Name: assets/public/btnParticle/shouchong01.plist
+SHA1-Digest: c1/4CNzUwZOUPjagJjW6+GqZHnE=
+
+Name: assets/ccb_published/TankNode/tank8/Tank16_2.ccbi
+SHA1-Digest: /1+NenDpXxH3GGqXOBR3OM805yI=
+
+Name: assets/public/changePhotoBg.jpg
+SHA1-Digest: YJ9rnuauw+m0lfElVYtSrCMMlto=
+
+Name: assets/ccb_published/TankNode/tank2/Tank10055_1.ccbi
+SHA1-Digest: H+oQLXmoZmQ81f2u0Coo1PUf4qA=
+
+Name: assets/public/allianceiconres/yum2.png
+SHA1-Digest: /hc+jjwjGd9eUe1VvXrXMqh49EQ=
+
+Name: assets/ccb_published/Activity/PowerUp.ccbi
+SHA1-Digest: hNaJXKZyOhQ42XljkHRcodH7vB4=
+
+Name: assets/scene/homeMap.jpg
+SHA1-Digest: 6n4wfS21Ek/EhNaxfeVFE4tkfqY=
+
+Name: assets/ccb_published/TankNode/tank4/effect/HitBulletEffect1.ccbi
+SHA1-Digest: 3I4hnPWVjP0jXnQmKDPb/cevZNw=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_icon_admin_apply_bg.png
+SHA1-Digest: p2D/CTeNCUOtlSCyxAvwNYNCKYE=
+
+Name: assets/audio/speedUpForBuild.mp3
+SHA1-Digest: EOgzIy7CV6pBJoKlICrKo6ptECo=
+
+Name: assets/boatImage/pressedPkg/homeBuilding.pvr.ccz
+SHA1-Digest: rTXriA5MUJRea+OXp1YE3U/N724=
+
+Name: assets/ccb_published/TankNode/tank4/Tank12_1.ccbi
+SHA1-Digest: csm2q8bqnJxLFyZv0UT4QTYoT00=
+
+Name: assets/ccb_published/CheckPoint/ra2_2.ccbi
+SHA1-Digest: 43JfSVUq8pCQzUa1+zObljHZaT8=
+
+Name: assets/public/iconGoldImage.pvr.ccz
+SHA1-Digest: Ac3VvisXAS9Pj8KdczOIG3o3cnc=
+
+Name: assets/newImage/shop/shopNew.plist
+SHA1-Digest: yVSPqzMy9b+vA1GyydgM87kRdGI=
+
+Name: assets/ccb_published/TankNode/tkBoss/tkBoss.ccbi
+SHA1-Digest: VS9JlANst7OZHrHDzxWNxm/ZYVM=
+
+Name: assets/ccb_published/TankNode/tank1/effect/FireEffect1.ccbi
+SHA1-Digest: +pIbszi42ZNxAeKYJjrsGcCdJRY=
+
+Name: assets/ccb_published/CheckPoint/ra3_tk18_ro3_15.ccbi
+SHA1-Digest: Dd3GUavSKtrx8XP0Lcrh3nNSRzA=
+
+Name: assets/public/shengDanKuangHuanPic/huangse.png
+SHA1-Digest: AbkaFq3/PnnxL0bVbWW/iAWRavE=
+
+Name: assets/boatImage/story/chapter/story_chapter_1.jpg
+SHA1-Digest: yTsHlIBbIMtcAOFlPmEZ4g73Zt4=
+
+Name: assets/public/SMOKE.plist
+SHA1-Digest: gltYbW5LhslfxYPkLnF8gO/avSk=
+
+Name: assets/newImage/particle/trim_activity01.plist
+SHA1-Digest: rrbh/0QGNg2rS3RIrIxmpA67lZM=
+
+Name: assets/ccb_published/CheckPoint/b1.ccbi
+SHA1-Digest: wI3+t4D5C5IlDTb8dGPmt95D/rE=
+
+Name: assets/boatImage/mainUi/createNameImg.pvr.ccz
+SHA1-Digest: f9cEd4i1fll4CN2BXInZ90s5QBw=
+
+Name: assets/ccb_published/MainScene_B/PatrolLayer3.ccbi
+SHA1-Digest: en4msGC0v9YSn2Tlw3ar4TSq1Sk=
+
+Name: assets/boatImage/worldMap/worldRes_1.plist
+SHA1-Digest: Q/Y45XyMiFYfbPmhXtjB4kzUygo=
+
+Name: res/layout/com_tencent_ysdk_icon_item_view.xml
+SHA1-Digest: IqIHesmjtMFT4aXRvBjGgwDGMRI=
+
+Name: assets/ysdkinfo.ini
+SHA1-Digest: K8sTN1r4t/3FHQL7gS9Lgzmy4d4=
+
+Name: assets/audio/building_tie.m4a
+SHA1-Digest: 1a7ZF3vh+5INGvjjuu0xV+oQLSI=
+
+Name: assets/newImage/activity/acshuijinghuikui.pvr.ccz
+SHA1-Digest: j+OMkZ2UecTBay9zwSH3xsKrvEY=
+
+Name: assets/boatImage/pressedPkg/storyImage.png
+SHA1-Digest: E2HBEKjc5OpTxnnWKuppZSHWS/U=
+
+Name: assets/boatImage/pressedPkg/accessoryImage.plist
+SHA1-Digest: t/CxoCXDesy4A9VhHKJGxg5yyc0=
+
+Name: assets/newImage/particle/notice_airwaves.plist
+SHA1-Digest: 7PphEnFMzsD/COJ9mCwgVWvz8LI=
+
+Name: assets/ccb_published/TankNode/tank2/effect/BulletEffect2.ccbi
+SHA1-Digest: 2CRGI8t3GSdWUC27TX98sxoCyDw=
+
+Name: assets/ccb_published/MainScene/flag.ccbi
+SHA1-Digest: J6QY9gvsysRWqvcro/pmV/yNsPA=
+
+Name: assets/boatImage/mainUi/iconAndBoatImage.plist
+SHA1-Digest: hhg6U9IkgMjL+MpAs8GnNzHE75c=
+
+Name: assets/newImage/particle/zuanshi_1.plist
+SHA1-Digest: 50lsfqJ4rrfZIV2KVlwWvsM5joY=
+
+Name: assets/audio/building_academy.m4a
+SHA1-Digest: 4v29UhwKmhNRS5eaNxyMBwBTeUQ=
+
+Name: assets/yyb_qq.png
+SHA1-Digest: /3M2VIdrF67YcAmVCOgoG38FyCU=
+
+Name: assets/newImage/battle/blue_cloth.png
+SHA1-Digest: J/2gZygUN3Z8bGWJA0sG7WnIJ6M=
+
+Name: assets/ccb_published/CheckPoint/tk3_6.ccbi
+SHA1-Digest: JXOf472ijt3wEGWytww72LH3bd8=
+
+Name: assets/newImage/particle/festivalSpring/pao03.png
+SHA1-Digest: kqbjhxZq0wOaRhfdapJHvZcApEI=
+
+Name: assets/public/tankLoadingBg.png
+SHA1-Digest: WqaG2EcPJwZRKVr+vJg3weMqiqg=
+
+Name: assets/ccb_published/MainScene/GoldIconLight.ccbi
+SHA1-Digest: VpXzgw2vPCYMR73AqAO87CeMIMY=
+
+Name: res/anim/unipay_anim_out_to_left.xml
+SHA1-Digest: ztkgkszN86ChaGv9yKnwAZ8yNZI=
+
+Name: assets/ccb_published/MainScene/UAV_Plane.ccbi
+SHA1-Digest: wnPDeoAyWhduz8mIpb+lDSqhbFY=
+
+Name: assets/ccb_published/TankNode/tank4/Tank12_2.ccbi
+SHA1-Digest: xWz57VmfvGisoZQYEhXY49cbXvk=
+
+Name: assets/newImage/particle/zuanshi_2.png
+SHA1-Digest: LTBJvJ5AZKO2Vl+xTmoc2rk+2jM=
+
+Name: assets/ccb_published/WarriorQueue/liebingHoom10025.ccbi
+SHA1-Digest: TzvWAIp9R9Bq0i1CPs2bW6B1Ow8=
+
+Name: assets/ccb_published/worldRebel/wRebel_75.ccbi
+SHA1-Digest: VWEqKzl/9WrbdaaCsXJ5PGFpHBg=
+
+Name: assets/ccb_published/WarriorQueue/liebingHoom10022.ccbi
+SHA1-Digest: YsVq/ltNbH4fum180d6Q8O76gTI=
+
+Name: assets/public/btnParticle/changeMainUI.plist
+SHA1-Digest: HpJHvPhoSYTjYYO/IojyjimbJLM=
+
+Name: assets/newImage/particle/festivalSpring/pao01.png
+SHA1-Digest: 4zJw9Z/MfmUihnNQBQTPuiBbKuo=
+
+Name: assets/newImage/updateImage/updateImage4.plist
+SHA1-Digest: j2R4sca72OHSAvF81qroFHTtCLc=
+
+Name: assets/ccb_published/MainScene/RefitFactoryBuildAnim.ccbi
+SHA1-Digest: lS2/5kD2zOdZjNWr5I96ah/smBQ=
+
+Name: assets/boatImage/pressedPkg/mainUIImageNew1.plist
+SHA1-Digest: 1uu475bOrr0cn2eLZbG5NdcRKDo=
+
+Name: assets/newImage/activity/bai.png
+SHA1-Digest: H2QawjM0wOt8jSb/bNI0xkUYCj8=
+
+Name: assets/button_green.9.png
+SHA1-Digest: 72N51zPrka+KUNiJfTjwx3sHXAI=
+
+Name: assets/newImage/activity/speedupDiscImage.plist
+SHA1-Digest: UbUO+ij8dfxT9RqsTTt3TTD+sLs=
+
+Name: assets/ccb_published/CheckPoint/b5.ccbi
+SHA1-Digest: NqGYChV2+8jf5VHcD10ksebxYjw=
+
+Name: assets/ccb_published/CheckPoint/tk3_tk3_13.ccbi
+SHA1-Digest: 3G4gS1zlDUfj065Av0GWgf5VlFU=
+
+Name: assets/ccb_published/MainScene/BuildOperation1.ccbi
+SHA1-Digest: KQZKcnKwUWe6FcGWzGZqB6MRc8I=
+
+Name: assets/boatImage/pressedPkg/newReportImage.plist
+SHA1-Digest: x/+FzPWAPJTf4P6ifNxqzx1AqM8=
+
+Name: assets/ccb_published/CheckPoint/ra5_tk18_ro5_15.ccbi
+SHA1-Digest: o1u6Y3mJanYBwEWc6K0Y3mQ7VZU=
+
+Name: assets/ccb_published/TankNode/tank8/Tank10075_1.ccbi
+SHA1-Digest: /pKFoybGq6MphLX7rVIifag1ZDI=
+
+Name: assets/newImage/activity/blue.png
+SHA1-Digest: J96vTj6lwVvCxB1uoYX+vUxxmAI=
+
+Name: assets/language/language.txt
+SHA1-Digest: zdbtI5fvy5M+PbBH5Ps736wiTcM=
+
+Name: assets/ccb_published/TankNode/tank1/effect/HitBulletEffect2.ccbi
+SHA1-Digest: 8pgC4jXsjM0AAncF40xJDQrmu+w=
+
+Name: res/anim/unipay_anim_in_from_left.xml
+SHA1-Digest: RVhsri7qJgz7SyNssBbKbHD6ye0=
+
+Name: assets/newImage/activity/acShengdankuanghuan.pvr.ccz
+SHA1-Digest: tpYu+el2x0nE+zhzK6LnkFtKFEo=
+
+Name: assets/newImage/bossParticle/shandian1.plist
+SHA1-Digest: gz3mfELEmLkQnpRVWrkgflimoKY=
+
+Name: assets/newImage/portScene/fountainAnim.plist
+SHA1-Digest: WAJ6/hcaGaEy1V0c6EmFU6NFh1I=
+
+Name: assets/ccb_published/MainScene/ChikenAnim_2.ccbi
+SHA1-Digest: Sq3zySp0Q1GoUtS0KNPKIm7VuTo=
+
+Name: assets/libwbsafeedit_64
+SHA1-Digest: 8NqDo8w20wC8CAbZqZbMJb4HDoQ=
+
+Name: assets/public/acTopBkg.plist
+SHA1-Digest: VKSQrIYX5MDDJTxtjwQE283AD5Y=
+
+Name: assets/ccb_published/CheckPoint/ld_tk18_10.ccbi
+SHA1-Digest: qs9WZZTfW7wURONP76X/ZenAOuo=
+
+Name: assets/developerInfoDebug.xml
+SHA1-Digest: P9N+X5qP9PhpjFDD4Ni0xAE0l3E=
+
+Name: assets/newImage/activity/green_star.png
+SHA1-Digest: dgP5/NigXtGzA7t+egSb+PMeQuE=
+
+Name: assets/com.tencent.plus.gray_disable.png
+SHA1-Digest: 0fMmhHNVjPOxFO8244xzl2vO0Jw=
+
+Name: assets/newImage/soldier/march.png
+SHA1-Digest: 9SryEFKR7PpOLhClAWLgRhfsGuY=
+
+Name: assets/ccb_published/CheckPoint/ra4_tk18_9.ccbi
+SHA1-Digest: v9dr0ewl84wzeQIeeugXtBKZejg=
+
+Name: assets/public/shengDanKuangHuanPic/hongse.plist
+SHA1-Digest: 5f0Uphhhrv23lU0Wj37sGWTLfXA=
+
+Name: assets/boatImage/pressedPkg/old_main_ui_image_1.plist
+SHA1-Digest: 9zC1iQW3H8k5CuG3P23x3aDyeEw=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_icon_gonglvicon.png
+SHA1-Digest: WwKF6HfjVKW8Z1MG0SJtOd3V3vQ=
+
+Name: assets/newImage/portScene/flag_1.png
+SHA1-Digest: KLdBcrAdDBTLysu6Ouh40xEHyXQ=
+
+Name: assets/ccb_published/MainScene/PatrolDogAnim.ccbi
+SHA1-Digest: dJRnJPn2XnqO2f/mxAsPE2oiCnI=
+
+Name: assets/audio/airdropMaterial.m4a
+SHA1-Digest: OVQlN4fuLgMFY4Bh3NckOz8difw=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_icon_h5_xx.png
+SHA1-Digest: OJ7P/7P0lU8g5DGSpJGJefu3Fzo=
+
+Name: assets/audio/building_jin.m4a
+SHA1-Digest: kMH2DMVnqqWvkEcWpGFlnuI2qWY=
+
+Name: assets/newImage/particle/battle_mt_desert_1.plist
+SHA1-Digest: j1L/+26ze+/KKnNtbxP/W26661Q=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_icon_admin_apply_rocket.png
+SHA1-Digest: cQp0sqaPcpsfD1Sze/ufL4M6VaI=
+
+Name: assets/ccb_published/CheckPoint/ra5_2.ccbi
+SHA1-Digest: ztTJjB9MNoEM8pSEzfiYu8MUFJE=
+
+Name: assets/newImage/mainUI/AirdropMaterial.pvr.ccz
+SHA1-Digest: t6zn8cBlugAX9SeyryJevJGlk0k=
+
+Name: assets/ccb_published/TankNode/tank1/effect/BulletEffect2.ccbi
+SHA1-Digest: dQ9IjVu7BCaxSjtaQ3osMdMq45A=
+
+Name: assets/WarImage/number_attack_new.png
+SHA1-Digest: ZQFRd7D48DtW0R9sYhWtpfdUx/0=
+
+Name: assets/ccb_published/CheckPoint/ra5_tk19_9.ccbi
+SHA1-Digest: A0iSdI6Y1X1xopcxBTduy75jD5U=
+
+Name: assets/boatImage/pressedPkg/story_star_batch_image.pvr.ccz
+SHA1-Digest: kRizk+YLr0xbIGy9T5ZUzKOa5Yo=
+
+Name: assets/newImage/activity/jifen.png
+SHA1-Digest: B25xmy9j10bbz0+zjzxFfIY4pxg=
+
+Name: assets/WarImage/red.fnt
+SHA1-Digest: nESymAkMr9CRhbTQobCoHa2vCzs=
+
+Name: assets/public/loadingTipBg.png
+SHA1-Digest: of2umneXWwDqOo7UQ+WpUoOhl/Q=
+
+Name: assets/ccb_published/TankNode/effect/planeEffect.ccbi
+SHA1-Digest: +hDw+ATKU08Uem09M6mSneV7fc0=
+
+Name: assets/ccb_published/TankNode/effect/shield.ccbi
+SHA1-Digest: TX2CwXpijXCiu93nIOrlTuaG1PQ=
+
+Name: assets/public/particleSmog.plist
+SHA1-Digest: 4yv1EqWYlABYPk+X5FGjd55cDqY=
+
+Name: assets/ccb_published/MainScene/TitaniumBuild.ccbi
+SHA1-Digest: jx/ClgB9BGaFt1uEsLexCsvKvfM=
+
+Name: assets/CCBRes/tk8_1.plist
+SHA1-Digest: HEhmD0mXR90dUpubhZk3JTruON0=
+
+Name: assets/WarImage/red.png
+SHA1-Digest: aLwhuLFfvDU9vO2rKfy5jKVzdsw=
+
+Name: assets/audio/building_boatyard.m4a
+SHA1-Digest: 7pWTRANpJMo3he7VWYwgVZ9GqnE=
+
+Name: assets/newImage/mainUI/tujishibing.plist
+SHA1-Digest: ghpDhRb18kGboWFgB5tZuPPAyy4=
+
+Name: res/layout-port/tencent_rsdk_platform_popup.xml
+SHA1-Digest: FxlPn5mxrqJ9knlmKRu6PABjx6c=
+
+Name: assets/yyb_weixin.png
+SHA1-Digest: JE2FXpgR+H3RdypnuvvwC7wPVVg=
+
+Name: assets/newImage/portScene/portDragonAnim.png
+SHA1-Digest: H2sR0rIQqqapivYhxHtISJK8nRM=
+
+Name: assets/ccb_published/CheckPoint/tk2_tk2_7.ccbi
+SHA1-Digest: Pyeo0KH+9mj85P5eDJJu4cD1yLE=
+
+Name: assets/newImage/mainUI/liebingHoom10025.pvr.ccz
+SHA1-Digest: pnmF6q73n1HZUQwu1qcF2YPcOEA=
+
+Name: assets/audio/building_zhu.m4a
+SHA1-Digest: 0jtEVZr7giZd6QehUxCcQKgVRPQ=
+
+Name: assets/newImage/uncompress/unCompress4.pvr.ccz
+SHA1-Digest: PB0Fy2NrcqMe9HpP2OMCLDfXHb8=
+
+Name: assets/public/btnParticle/starBgParticle.plist
+SHA1-Digest: SO/ghCgqV/lLcUvtC2JqnwVHSTc=
+
+Name: assets/newImage/particle/trim_activity01.png
+SHA1-Digest: euAXgTnbLdI7M2rJ3dlLiZ68930=
+
+Name: assets/CCBRes/tk5.pvr.ccz
+SHA1-Digest: gavCwnxnSbP/U4jmu1EN0seBkWE=
+
+Name: assets/boatImage/pressedPkg/tank_slot_line.png
+SHA1-Digest: dOMAUhyqcJ3cmw29dqnQqPnsIWQ=
+
+Name: assets/newImage/activity/acNewGiftsdialog.pvr.ccz
+SHA1-Digest: ro3mnPolvbsFQ07db9ABHiJTPTI=
+
+Name: assets/ccb_published/TankNode/tank2/Tank8_2.ccbi
+SHA1-Digest: P7HehI0Sb6GW/6K7XBx0pSFlLEA=
+
+Name: assets/cn/LoadingBtn_Down6.png
+SHA1-Digest: HfkzffpX6lm7+jDvMZqRRCZf4Oc=
+
+Name: assets/newImage/particle/christmas_xue02.plist
+SHA1-Digest: LvWV4NZAZModfOgz8Uk0xqYXv2w=
+
+Name: assets/newImage/activity/activityCommon.plist
+SHA1-Digest: j13vaXUBodJyu0rkXN+gBlJofSM=
+
+Name: assets/newImage/uncompress/unCompress.pvr.ccz
+SHA1-Digest: moBl5vc4Ooze5ZMycs/+PxILur4=
+
+Name: res/layout/activity_user.xml
+SHA1-Digest: Ypq9gc4aQvwK+vn+mlRhOgJa838=
+
+Name: assets/com.tencent.plus.gray_down.png
+SHA1-Digest: 3kvmQFE/DE41dwoZpkQMHPpWtuI=
+
+Name: res/drawable/com_tencent_ysdk_icon_bg_redcorner.xml
+SHA1-Digest: vOwR6z7HawVRcFjEXilFRYWGI+U=
+
+Name: assets/audio/building_pei.m4a
+SHA1-Digest: dxUKh7aGu4z7IEIre6Uu433980U=
+
+Name: assets/public/btnParticle/lotteryBombParticle.plist
+SHA1-Digest: u7hQFPZ7WsDhMUauM6mpXFZI8gY=
+
+Name: assets/CCBRes/tk10065_1.plist
+SHA1-Digest: Q2n4Otvo+/AIhEN766wy9aaYbpU=
+
+Name: assets/public/btnParticle/caiji01.png
+SHA1-Digest: Mz79JnHTs0tOaNuykiaIuBFhtbU=
+
+Name: assets/public/acDouble11.plist
+SHA1-Digest: 4O7YzEEs5nb5SH0YanoeS504xzU=
+
+Name: assets/newImage/oldRes1.plist
+SHA1-Digest: rJ2JiI4fwBoEWOF9vs8fICAPkes=
+
+Name: assets/newImage/uncompress/newUnCompress.plist
+SHA1-Digest: EaD7uf5k/1iVbP3+XiRjPD0btG8=
+
+Name: assets/ccb_published/WarriorQueue/WarriorQueueNew.ccbi
+SHA1-Digest: WU/wbOlEtQdtYK46Jp0GF9r+ggA=
+
+Name: assets/ccb_published/WarriorQueue/WarriorUi2.ccbi
+SHA1-Digest: YpE9pD4hcGFShyQxY/eyAx3YLPo=
+
+Name: assets/ccb_published/MainScene/PatrolLayer3.ccbi
+SHA1-Digest: PprIuc1Ll2nVrisfDPfxo0Vy7e4=
+
+Name: assets/public/shengDanKuangHuanPic/zise.png
+SHA1-Digest: AbkaFq3/PnnxL0bVbWW/iAWRavE=
+
+Name: assets/newImage/mainUI/tujishibing.pvr.ccz
+SHA1-Digest: WDFAl3WqL5dzgEzlm0W3OcH6Nz4=
+
+Name: assets/newImage/particle/zuanshi_1.png
+SHA1-Digest: B4vyh7LvHeFhy2JAlXj6onK7MWE=
+
+Name: assets/boatImage/pressedPkg/homeBuildingDecorate.pvr.ccz
+SHA1-Digest: o3mN9bkbieLk2qgyYKMhuGl9AzM=
+
+Name: assets/public/allianceiconres/upPao.plist
+SHA1-Digest: hXm855hre700RjIYYMVZSsHI3/I=
+
+Name: assets/public/dengluchainSys/liziyan2.png
+SHA1-Digest: Vn7iWcXQSgAh2TIqUBc8yxQ2jXw=
+
+Name: assets/audio/building_HQ.m4a
+SHA1-Digest: jCDbVIGIW5eYFHuxLO/gn9kHWjU=
+
+Name: res/layout/rsdk_plugin_login.xml
+SHA1-Digest: FRp4R6BppZ2NYmpwVFm79vzV7GE=
+
+Name: assets/public/allianceiconres/biaozhi.png
+SHA1-Digest: r71IKY1zTuSD3Nx44Hw/D0KWeuo=
+
+Name: res/drawable/com_tencent_ysdk_icon_bg_corner.xml
+SHA1-Digest: 4rN6IeEJ5kHNVBqf1evu+iftPIs=
+
+Name: assets/ccb_published/MainScene/FittingsFactoryBuild.ccbi
+SHA1-Digest: HcFCNptS/HP7Ko1BWpwvPVqkV7U=
+
+Name: res/layout/com_tencent_ysdk_icon_floatmenu_view.xml
+SHA1-Digest: KQ9XflJZ0RMK+3xxkkiUT/A8INU=
+
+Name: assets/MidasPay.zip
+SHA1-Digest: N3SrIcy1QV42XcV1EA7oYhYrkMk=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_real_name_close_nor.png
+SHA1-Digest: /EHrnMkYxypu/N0Be9qI1zJf45s=
+
+Name: assets/public/number_Gold.png
+SHA1-Digest: eyv/3hW5mSRsBWGZceu3ENQpKqE=
+
+Name: assets/ccb_published/CheckPoint/tk1_oil_11.ccbi
+SHA1-Digest: sHFs5awSHro5jR9WIlL1OGntCoU=
+
+Name: assets/CCBRes/tk14_2.plist
+SHA1-Digest: da2jhC5hXVaYWEeHPVOVjKjOgXE=
+
+Name: assets/newImage/bossParticle/yan.plist
+SHA1-Digest: BwjkHEusaardHvjq240vESwiMI8=
+
+Name: assets/CCBRes/tk99999.pvr.ccz
+SHA1-Digest: LS1m/lI2FDZ/50v4KXtKG2M6/+4=
+
+Name: assets/public/allianceiconres/leftWing.plist
+SHA1-Digest: eWWq1e2rdCPrR3MYd/ciBYouYn4=
+
+Name: assets/newImage/troops/troopsEdit.pvr.ccz
+SHA1-Digest: MWvtLjy/DUtBZQr85gYBd4fhc7Y=
+
+Name: assets/ccb_published/CheckPoint/b3.ccbi
+SHA1-Digest: JCe9Q9aalVZEH9+opbURi8b4r6I=
+
+Name: assets/public/xd.plist
+SHA1-Digest: /IKT7LbGmw8zqykr40Z+S6JPcEQ=
+
+Name: assets/ccb_published/fileLookup.plist
+SHA1-Digest: Wn8c1oTgh4bFtcqdETIC336bjzw=
+
+Name: assets/newImage/activity/blue_star.png
+SHA1-Digest: dgP5/NigXtGzA7t+egSb+PMeQuE=
+
+Name: assets/newImage/particle/powerLevelUp.plist
+SHA1-Digest: ZKFbfXx42EKBR42C5cqeP/S6u2M=
+
+Name: assets/CCBRes/tk11_2.pvr.ccz
+SHA1-Digest: VecYwppLleefUUZ/3fmHNbQ+Gb8=
+
+Name: assets/newImage/bossParticle/lizixing.plist
+SHA1-Digest: KlSvDRwfmoYlU6lFLlEKeNd1Kys=
+
+Name: assets/ccb_published/CheckPoint/ld_tk20_10.ccbi
+SHA1-Digest: V2pp6MSTEcSjca+hJQyYK+lkXMM=
+
+Name: assets/newImage/battle/newAllianceWar2.plist
+SHA1-Digest: l2CFobnpfCIGkkzK6HLqkYJNJ1o=
+
+Name: assets/newImage/portScene/dcx.plist
+SHA1-Digest: keA9wD6LPWq7R185gXTKb0fb3Mo=
+
+Name: assets/CCBRes/tk10045.pvr.ccz
+SHA1-Digest: 6+QPY5zCLaXgX6dK6NBFHy1Aocw=
+
+Name: assets/newImage/soldier/soldierType1.plist
+SHA1-Digest: WNs1p9XxvGy/oegPACrjQXQ2k4k=
+
+Name: assets/newImage/mainUI/liebingHoom10065.pvr.ccz
+SHA1-Digest: PaE9w1MRitkRHIfD8/fKyDZIdkI=
+
+Name: assets/ccb_published/MainScene/TechnologyCenterBuild.ccbi
+SHA1-Digest: BtYDgAbfyBxpj4bKbFzQ/BOLTAA=
+
+Name: assets/newImage/mainUI/liebingHoom10022.plist
+SHA1-Digest: tPNmgbA5XuR16X5e9qWlgPc9xGc=
+
+Name: assets/public/closeBtn.png
+SHA1-Digest: zetyvMK+uk42vj6ao/fc8AhwGBg=
+
+Name: assets/ccb_published/MainScene_B/TankAnim1.ccbi
+SHA1-Digest: g1F4552owbCNS8k169pMjmtiC3k=
+
+Name: assets/ccb_published/CheckPoint/tk4_6.ccbi
+SHA1-Digest: UFaGcvGrcKR1YhETNbzqa1SEuTQ=
+
+Name: assets/ccb_published/TankNode/tank1/Tank4_2.ccbi
+SHA1-Digest: tGXVOhu8JfRlAZITqdvenrLEgAw=
+
+Name: assets/ccb_published/MainScene/Plane_ChiBang_2.ccbi
+SHA1-Digest: pD1vcTxgfRzra+figYH/L+pwzTI=
+
+Name: assets/ccb_published/Animations/worldBossNode.ccbi
+SHA1-Digest: Lyme9lWcVtkObsmuwK5OVd1HMPw=
+
+Name: assets/newImage/activity/acWanshengjiedazuozhanBg.jpg
+SHA1-Digest: T3KWqoMQ5IGeQS75Gy4XGBVtC6Q=
+
+Name: assets/newImage/particle/festivalSpring/pao03.plist
+SHA1-Digest: o1BEq1aqEXqte+OtzQaams2nSHg=
+
+Name: assets/CCBRes/tk10_2.plist
+SHA1-Digest: c8892tLiKGlsp32OLttCNerX8iM=
+
+Name: assets/newImage/mainUI/liebingHoom10012.plist
+SHA1-Digest: kJnQbU3blSV76985Rd7tJHcOWDM=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_icon_red.png
+SHA1-Digest: LMaquVuY5uj5jZ6eMgnxKwoYaB0=
+
+Name: assets/ccb_published/CheckPoint/tk2_tk2_13.ccbi
+SHA1-Digest: VN4Ml3fkuj+nNXzCyGv+w4mTCok=
+
+Name: assets/CCBRes/tk1.pvr.ccz
+SHA1-Digest: 74OcI8Q70E2wSmeZgHSWKlPdDu0=
+
+Name: assets/WarImage/number_attack_new.fnt
+SHA1-Digest: VVyaq7lBoF7qN3Ctimgu4W8aLNA=
+
+Name: assets/newImage/activity/slotMachineCommon.pvr.ccz
+SHA1-Digest: pvZcPT01+KUNB+cGF2VmaN9KgrM=
+
+Name: assets/public/dengluchainSys/lizixing2.plist
+SHA1-Digest: CJf253rZ/059lSYnW0O0O5RFwkY=
+
+Name: assets/newImage/homeMap/newHomeMap.plist
+SHA1-Digest: jEUzkvnmzwXILr86Kkj0QyGINN4=
+
+Name: assets/ccb_published/CheckPoint/tk4_tk4_tk4_14.ccbi
+SHA1-Digest: ogiYx41wZfmUeYs3VtoJENuuFoY=
+
+Name: assets/newImage/activity/orange.plist
+SHA1-Digest: yEPWBbMOZ+8kAh1wqlHZPBF1B04=
+
+Name: assets/ccb_published/MainScene_B/PatrolDogAnim.ccbi
+SHA1-Digest: zOGj6buDUOyfszb3gmTP/Xusf7c=
+
+Name: assets/ysdk_pubkey.pem
+SHA1-Digest: /4UsEruoRycEWtFSC4+9CeiuEx8=
+
+Name: assets/public/dengluchainSys/lizixing.plist
+SHA1-Digest: Guo+4sMgBAaMa/nAQmRMQW3+SDY=
+
+Name: assets/ccb_published/MainScene/Snake_Zong.ccbi
+SHA1-Digest: LQ+J/4moqnXAhzC9GQBW3x6vyuo=
+
+Name: assets/public/allianceiconres/rightWing.png
+SHA1-Digest: 1Eks0swO2Wi8gM0mRo/PJJMMLEc=
+
+Name: assets/ccb_published/TankNode/tank4/Tank13_2.ccbi
+SHA1-Digest: iIoQQYavHSyq9KrRdqiAAOmdGkc=
+
+Name: assets/com.tencent.plus.blue_disable.png
+SHA1-Digest: KwQ2SLR32W8k+uF420pUXoLLAto=
+
+Name: assets/ccb_published/TankNode/tank2/Tank7_2.ccbi
+SHA1-Digest: WuHVdjvP9jiVRQ3i4bi3OLJ0YLw=
+
+Name: assets/ccb_published/MainScene/DecorateBuild.ccbi
+SHA1-Digest: nydpt8tZbYPMKDvEvjbfg/2O48A=
+
+Name: assets/ccb_published/WarriorQueue/WarriorUi10.ccbi
+SHA1-Digest: nGcuf54scfDieEzUSOgbjpcd9t4=
+
+Name: assets/ccb_published/CheckPoint/ra5_tk20_ro5_15.ccbi
+SHA1-Digest: aOKgFtJr02XwAOJetmDYjl97NJc=
+
+Name: assets/CCBRes/tk3.pvr.ccz
+SHA1-Digest: v5FD14GenVAYLM9dRPumMC3PAJM=
+
+Name: assets/newImage/mainUI/liebingHoom10021.pvr.ccz
+SHA1-Digest: pN2nAOaTBhzoIVS+xibZtJSOP+U=
+
+Name: assets/ccb_published/TankNode/tank4/effect/HitBulletEffect2.ccbi
+SHA1-Digest: qp8XlKfnAqQn+0Ww/TJXob3IIJc=
+
+Name: assets/CCBRes/tjb_4.pvr.ccz
+SHA1-Digest: PhpjJ2ekwO2cyBE0/agubrNB6oM=
+
+Name: assets/public/allianceiconres/upXian.plist
+SHA1-Digest: RV1RlFCaiJ8p4ZlFLxinakRdxI4=
+
+Name: assets/newImage/activity/aczhaobingmaima.plist
+SHA1-Digest: hqQSPLEHNEvLhq7N24hvs8JJNcA=
+
+Name: assets/newImage/portScene/starLand.png
+SHA1-Digest: EiBtyXXrhP0gMawk6e41SMHWHBw=
+
+Name: res/layout/plugin_login.xml
+SHA1-Digest: UgayQ4j5C02bfwajYH+eP7FARCQ=
+
+Name: assets/newImage/particle/christmas_piao.plist
+SHA1-Digest: C+Zj9WJucoNHuHGEWfrV1LF+cXQ=
+
+Name: assets/supportPlugin.xml
+SHA1-Digest: WwWVL0IpMREjJPIsN5ChUaUt+dw=
+
+Name: assets/ccb_published/Animations/locationMap.ccbi
+SHA1-Digest: RuE2sTRSfxNmI/cK3I3uI0t97SQ=
+
+Name: assets/public/monthlysignFreeBg.png
+SHA1-Digest: wcb5OFiEsbN62FzjNTwRRkmpQdo=
+
+Name: assets/audio/explosion.m4a
+SHA1-Digest: ybMYqw1DWsazq8qW6o+hlc9WvUk=
+
+Name: assets/ccb_published/TankNode/tank1/Tank4_1.ccbi
+SHA1-Digest: 8wpbtKCr5hp0G/f55mO/nqQOxpM=
+
+Name: assets/audio/background_music.m4a
+SHA1-Digest: Y/j8bxCw/jjYXKc0rC7Uz5hRO54=
+
+Name: assets/newImage/building/clickBuilding.pvr.ccz
+SHA1-Digest: ZyNFySvNQBHUmpJxmH6PgvwyEOs=
+
+Name: assets/newImage/icon/propIcon.png
+SHA1-Digest: E7jQZde+9Eu0cTMXai3hA8Gkemg=
+
+Name: assets/libwbsafeedit
+SHA1-Digest: /WPw1+DlgBrRMrerHyu+xogtvIQ=
+
+Name: assets/ccb_published/component/PowerLevelUp.ccbi
+SHA1-Digest: 49Ke8YA38i51bvtYfGU+g5szCtI=
+
+Name: assets/ccb_published/MainScene/Plane_Node.ccbi
+SHA1-Digest: zbZ/uDgULWiXwNl5DEFPauun7i4=
+
+Name: assets/ccb_published/CheckPoint/ckp_1_15.ccbi
+SHA1-Digest: NJGsc8uikNBYFke8l9V3Z1Xn27o=
+
+Name: assets/CCBRes/shells.plist
+SHA1-Digest: Ctg3L4/AC6s1VnTP7HSlnqgTCvQ=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_real_name_btn_frame_bg.xml
+SHA1-Digest: 4mFpGcLQu5ZIG5m036ph4VIEz2U=
+
+Name: assets/ccb_published/TankNode/effect/breakShield.ccbi
+SHA1-Digest: H4W52/N/TeLgncpzttrxyUjfz9M=
+
+Name: res/drawable/com_ray_close.png
+SHA1-Digest: kque44Rho+3CXqhYe/SiH8pX0E4=
+
+Name: assets/rjoyconfig.xml
+SHA1-Digest: SQLyd7/JXF+NOYPH1gjs70/cU88=
+
+Name: assets/newImage/battle/BattleResult.pvr.ccz
+SHA1-Digest: pHJFQbV2O9f2ATC9Uz7MNQGcrSA=
+
+Name: assets/ccb_published/CheckPoint/ra4_2.ccbi
+SHA1-Digest: H6l4KEskGZKSNjPlo2zv43ZSa3M=
+
+Name: assets/ccb_published/MainScene_B/RevolvingLampAnim.ccbi
+SHA1-Digest: at3Lk52ECxnVR4BI7vU+/H0yK7o=
+
+Name: assets/public/armorMatrix/armorMatrix03.plist
+SHA1-Digest: 04JzNlLT1wv8I66SGQpoLq34M1s=
+
+Name: assets/newImage/particle/juntuan02.png
+SHA1-Digest: Y/a9nBbk8zF+wwekLjRBacF3gko=
+
+Name: assets/newImage/localWar/localWarCityIcon.pvr.ccz
+SHA1-Digest: BuNWasx0xeq2NINItSjUvLtODKE=
+
+Name: assets/public/dengluchainSys/xialuo1.plist
+SHA1-Digest: +DjXF4yh4hxDmHWNXXKMyy+cgN8=
+
+Name: assets/ccb_published/TankNode/tank1/Tank10045_2.ccbi
+SHA1-Digest: QMWg/FWPyPulFzz5FUdWmhw2yPM=
+
+Name: assets/cn/multilanguage1.pvr.ccz
+SHA1-Digest: Y1qeJxUQwEJ9l9VLVSfR6hhlbsk=
+
+Name: assets/newImage/localWar/localWar2.pvr.ccz
+SHA1-Digest: DlNiJs0zIQEm8TvemSQHqckX7IU=
+
+Name: assets/ccb_published/BattleScene/AnimationVSAcross.ccbi
+SHA1-Digest: hVbp3B6NDIkgnFJJEDDzKx6NyVI=
+
+Name: assets/CCBRes/tk10075.plist
+SHA1-Digest: 9cKkROz9cFqFWbQNcg8hjfE8iE0=
+
+Name: assets/audio/switch.m4a
+SHA1-Digest: VlAlp3S7c5ufG7Piw3tw2m6l23A=
+
+Name: assets/CCBRes/tk2.pvr.ccz
+SHA1-Digest: 8+vGkPCHTxNIu8/BAbhpFWg/8+o=
+
+Name: res/anim/unipay_anim_out_to_right.xml
+SHA1-Digest: BhVr9DOqXHNvY2ggdLtviI3QDmY=
+
+Name: assets/newImage/particle/festivalSpring/huodong02.plist
+SHA1-Digest: N62Lq5ppq1iwejlOCOG/9m9dIHg=
+
+Name: assets/newImage/portScene/waterfall.plist
+SHA1-Digest: qEQ2H4hTZtdg7vxZu7cTveQSf84=
+
+Name: assets/ccb_published/CheckPoint/tk1_tk1_13.ccbi
+SHA1-Digest: 9cnP2SOnb/1tXQrUE9InbLDaXv0=
+
+Name: assets/ccb_published/TankNode/tank4/effect/BulletEffect1.ccbi
+SHA1-Digest: BP33g5A+ElwWoiIeH0tZYMooEyk=
+
+Name: assets/newImage/activity/limitActivityIcon.plist
+SHA1-Digest: cITeQi/4yx6ZbbRwQrfEurkK/BY=
+
+Name: assets/public/dengluchainSys/lizixing2.png
+SHA1-Digest: SGThbo5i7z46AaMkBtt8okHp4y8=
+
+Name: assets/ccb_published/TankNode/tank4/Tank10065_1.ccbi
+SHA1-Digest: qoN0TlV3RpspInyulLk95ab3h78=
+
+Name: assets/public/dengluchainSys/liziyan2.plist
+SHA1-Digest: N2AWWyYJCdoQNLt4V45I3M8UJBg=
+
+Name: assets/boatImage/newCommon/newCommonImage.plist
+SHA1-Digest: Sa38yZLI6X8sPIswwzgT+I5JZbQ=
+
+Name: lib/armeabi/libcocos2dlua.so
+SHA1-Digest: tar+x7V93rs8gkZZiEuSns/xigk=
+
+Name: assets/boatImage/story/chapter/story_chapter_12.jpg
+SHA1-Digest: uPX50j6lMJFxp31BObXgd6WAMrs=
+
+Name: assets/newImage/mainUI/huojianbing.pvr.ccz
+SHA1-Digest: wI2WHi905k5z2PuYI2yAISIJ2Qc=
+
+Name: assets/scene/logoImage/Logo_zh5.png
+SHA1-Digest: ECPYmQcLazu0P6rO/q8XBPZcoPw=
+
+Name: assets/CCBRes/tk15_2.pvr.ccz
+SHA1-Digest: NwdKJ/U+B8QUXl4yVVK4dSbrOfU=
+
+Name: assets/newImage/particle/christmas_piao03.png
+SHA1-Digest: Xkg7wpSSe554FD0Qp0oo0RkiYoE=
+
+Name: assets/ccb_published/TankNode/tank2/Tank6_1.ccbi
+SHA1-Digest: N28nGm1be0M7QDOMsAApxId29uk=
+
+Name: assets/newImage/activity/acWanshengjiedazuozhanBg2.png
+SHA1-Digest: oivcm5nHzGyShfC9VHV6NyKqzHw=
+
+Name: assets/boatImage/pressedPkg/storyMapImage.pvr.ccz
+SHA1-Digest: DjeP6P0sHJ9XFiiRfMrbWXiRtD0=
+
+Name: assets/public/yuanDanyactanhua/LevelUp_FireworksBoom02.plist
+SHA1-Digest: 6zmvnezghx0RXMOqgBQD3/iCeec=
+
+Name: assets/public/framebtn.png
+SHA1-Digest: qMd+FfKQtCN19pioqj/yDETem0I=
+
+Name: assets/newImage/uncompress/unCompress5.pvr.ccz
+SHA1-Digest: pB6GLvw4Hmwfgwu0oWqY1gzGyCk=
+
+Name: assets/newImage/soldier/soldierType1.pvr.ccz
+SHA1-Digest: 8M8UdGYAsUprxoRcKMYbH2gCaFs=
+
+Name: assets/CCBRes/tankTrail_1.pvr.ccz
+SHA1-Digest: RiDxm1kBE172MgrgNSlK4th2uHM=
+
+Name: assets/newImage/activity/acMonthlysign.pvr.ccz
+SHA1-Digest: e/DdvmHcrB8vyXRPcG7WsFCFy34=
+
+Name: assets/newImage/functionImage/freeSpeedup.pvr.ccz
+SHA1-Digest: 9cX1Mt0+2DE1QTQH01+cyn5GOVk=
+
+Name: assets/public/acTopBkg.png
+SHA1-Digest: ttwbu2+z3ILDbPUOJcVgg0t8MGA=
+
+Name: assets/audio/building_tai.m4a
+SHA1-Digest: wSQlZ/Zgh9/hoeL/uc6za7vm3KQ=
+
+Name: assets/newImage/portScene/flag.plist
+SHA1-Digest: dNDsMNGdNAfHH4l615k+aLbJELk=
+
+Name: assets/ccb_published/MainScene/activity.ccbi
+SHA1-Digest: m3hr0XBySafdJQx0XDA0To5k3Dg=
+
+Name: assets/boatImage/worldMap/richMineAndLandForm.pvr.ccz
+SHA1-Digest: KnYHpnEre27YY2OuIvgqKxADZF4=
+
+Name: assets/ccb_published/CheckPoint/ld_tk19_10.ccbi
+SHA1-Digest: bEFb2Xh2Ho5pOtzruMJEq7AqWjo=
+
+Name: assets/ccb_published/MainScene/Show_Circle.ccbi
+SHA1-Digest: +uQLDkpD6ZkEIcKkvja9eA4Zkk0=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_real_name_btn_text_frame_col
+ or.xml
+SHA1-Digest: KxStS2ryUWkUABC/3sh1AYmKHjw=
+
+Name: assets/newImage/activity/acMysteriousArms.pvr.ccz
+SHA1-Digest: hHkZh3nlYvrwxImDPmETsA1CHmM=
+
+Name: assets/CCBRes/battleSceneAnimation.plist
+SHA1-Digest: nrpJyf9W5492O8B1sHWktVWZ4ks=
+
+Name: assets/CCBRes/tk7_2.plist
+SHA1-Digest: yKRrmI2KUMIv2is8IVl6MDXmFWg=
+
+Name: assets/ccb_published/MainScene_B/PatrolLayer5.ccbi
+SHA1-Digest: kv6TV8V/liPRBctswRtEFyzOsoA=
+
+Name: assets/ccb_published/WarriorQueue/liebingHoom10012.ccbi
+SHA1-Digest: m1ZPwFp328LUyyLgq1kstWfcd+M=
+
+Name: assets/ccb_published/BattleScene/AnimationVSTop.ccbi
+SHA1-Digest: jYPZJAn82gACoYfCzxPGeMSgwFI=
+
+Name: assets/ccb_published/WarriorQueue/WarriorQueue.ccbi
+SHA1-Digest: MmMg35OUsTS7S74u1+xPxg1pBYs=
+
+Name: assets/scene/logoImage/Logo_tw.png
+SHA1-Digest: a0JIwZayN+buIVIloXx+5s5ifSs=
+
+Name: assets/ccb_published/WarriorQueue/liebingHoom10024.ccbi
+SHA1-Digest: DfL5uFuiixSErVI0SSgrCEKWZBY=
+
+Name: assets/newImage/newPayment.plist
+SHA1-Digest: clzvr/B1zcWRWbnyer/KIrEawLM=
+
+Name: assets/newImage/mainUI/liebingHoom10023.pvr.ccz
+SHA1-Digest: 2qlcCnIJVuKoTfv885+ORI111kU=
+
+Name: res/layout/unipay_layout_loadding.xml
+SHA1-Digest: FDCxmoQdo5aaWLaHkQXOPiy7AfE=
+
+Name: assets/CCBRes/animations.pvr.ccz
+SHA1-Digest: GQQz6ZTgnPcT+fch/ZvTLBw26cE=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: Rb8fD/Caz6lI86TrFIpturBoeLc=
+
+Name: assets/public/dengluchainSys/lizixing.png
+SHA1-Digest: BGyyqDp9vkxKQ1sAIhaVABoJ0WA=
+
+Name: assets/ccb_published/CheckPoint/ro1_4.ccbi
+SHA1-Digest: shHdZo1Yaxhwqhdn2osyGP7lQuw=
+
+Name: assets/public/armorMatrix/armorMatrix02.plist
+SHA1-Digest: u+CcvInPgaOr6yFleJm2l7Zu3C0=
+
+Name: assets/ccb_published/TankNode/tank8/effect/BulletEffect1.ccbi
+SHA1-Digest: se50itDmqdccYn9n8mijTCWpSKk=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_real_name_success.png
+SHA1-Digest: rXTafRWHJq+KsK8HNv9ixLamH/4=
+
+Name: assets/public/btnParticle/dianji01.png
+SHA1-Digest: ozGR2iNH348QcIdcgLBDrpXSXNI=
+
+Name: assets/ccb_published/CheckPoint/ckp_1_12.ccbi
+SHA1-Digest: 3Q1zgDwhHg0bV2EhyqUBfVbYjNQ=
+
+Name: assets/boatImage/story/chapter/story_chapter_13.jpg
+SHA1-Digest: oNBIenoFq3iPg9Yw5FxQs8fsnCc=
+
+Name: assets/public/newIconImage2.plist
+SHA1-Digest: J4p6sAb32ZZSHDwDTY8V6mkSjcU=
+
+Name: assets/newImage/bossParticle/huo.png
+SHA1-Digest: xmOV96taesF92nMUPBLulktsZjA=
+
+Name: assets/public/btnParticle/lotteryLightParticle.plist
+SHA1-Digest: dJSyJ0aPU2pQTGS9LonM+p59e+A=
+
+Name: assets/boatImage/pressedPkg/bossRes.pvr.ccz
+SHA1-Digest: v6HacU3EsTCYoSMeYuxT0bBo0U8=
+
+Name: assets/newImage/activity/green.png
+SHA1-Digest: H2QawjM0wOt8jSb/bNI0xkUYCj8=
+
+Name: assets/boatImage/pressedPkg/game_better_image.plist
+SHA1-Digest: msbu3nn7MknjZmnx54A/+haifjY=
+
+Name: assets/com.tencent.plus.ic_success.png
+SHA1-Digest: nfo99+6yphuEgBIZu6+cg0j1+3k=
+
+Name: assets/ccb_published/MainScene_B/PatrolLayer1.ccbi
+SHA1-Digest: AfdyHzWzGBMxqmjwpYFMXqTjvqo=
+
+Name: assets/ccb_published/CheckPoint/ro2_4.ccbi
+SHA1-Digest: O9WMoCBqjaFS93zT4/We5EjgGlg=
+
+Name: assets/newImage/mainUI/mainUI.pvr.ccz
+SHA1-Digest: Ak0319WdldotFuok05qOo//sbpg=
+
+Name: assets/ccb_published/Activity/FirstRecharge.ccbi
+SHA1-Digest: 369aqIab5sTdTUg671JUUGpX+W8=
+
+Name: assets/newImage/updateImage/updateImage1.pvr.ccz
+SHA1-Digest: RhRYlPRaVGvft+etJbs4b1MgwtQ=
+
+Name: assets/newImage/icon/btnIcon.pvr.ccz
+SHA1-Digest: zwJH3/LRIEWlORiYjm44RyZZYp4=
+
+Name: assets/CCBRes/destroy.plist
+SHA1-Digest: BbXmIpJB3QkNMsuzWGPRupLd35o=
+
+Name: assets/audio/star.mp3
+SHA1-Digest: 6X1y0yi5+lh0221iB1QnTMOS/AM=
+
+Name: assets/newImage/localWar/localWarResult.pvr.ccz
+SHA1-Digest: UafYhIUKcujbuLK8nhVBA4TSbG0=
+
+Name: assets/public/shengDanKuangHuanPic/lvse.plist
+SHA1-Digest: q8mySp5oYDexqI071vSItf0Cy3A=
+
+Name: assets/boatImage/story/chapter/story_chapter_16.jpg
+SHA1-Digest: nLtK9xSZv1ywNUuRiCFijwNba1Q=
+
+Name: assets/CCBRes/tk13_2.plist
+SHA1-Digest: eUxKt5PuFIBKMc/k7Fii9uyoBt4=
+
+Name: assets/audio/building_research.m4a
+SHA1-Digest: dxtM5/Onn6FOSVAv1zYktkiLGdI=
+
+Name: assets/newImage/activity/acJunshijiangtan.plist
+SHA1-Digest: gRkheH87zckMBo47N+XP/r8ZpKE=
+
+Name: assets/newImage/particle/zuanshi_2.plist
+SHA1-Digest: HWSN2kDi4dmgECoTyU5eCXk6PDw=
+
+Name: assets/newImage/particle/juntuan01.plist
+SHA1-Digest: O0tXDITBoXLHiKhMd19WZBCq/1c=
+
+Name: assets/yyb_qzone.png
+SHA1-Digest: 9YwbRhD/FPWk5WZtaWPDQCeM2aE=
+
+Name: assets/ccb_published/MainCityLayer.ccbi
+SHA1-Digest: Koor3G0L/DHFNbUcMQCocyBLIv0=
+
+Name: assets/ccb_published/MainScene/MainBuild_15.ccbi
+SHA1-Digest: PySBE2XMzmdR/FZVl1aMCTu6j0c=
+
+Name: assets/public/btnParticle/starBombParticle.plist
+SHA1-Digest: O55KanXMSw+r+rRgyBRfNf9//7U=
+
+Name: assets/scene/logoImage/Logo_en.png
+SHA1-Digest: ojHP3ge1k/rosXFxB2sHENZT69w=
+
+Name: assets/boatImage/pressedPkg/game_better_image.pvr.ccz
+SHA1-Digest: dX8aZnWDC7emlIXWnVDstv8c+VE=
+
+Name: assets/ccb_published/MainScene/BattleHallBuild.ccbi
+SHA1-Digest: O+Fb2ChUs6j/AUx68dBWwv6Sq+4=
+
+Name: assets/newImage/particle/rewardconter2.plist
+SHA1-Digest: /obap5JgnyYAnCM4k/WGeXUv3SA=
+
+Name: assets/public/number_Gold.fnt
+SHA1-Digest: 7xI2uQ+gS4KEGi2cOMn65KU4GP8=
+
+Name: res/layout-port/unipay_layout_activity_web.xml
+SHA1-Digest: su1hrRyspdQYnYxeKw92BzRtc1I=
+
+Name: assets/public/btnParticle/lotteryStarParticle.png
+SHA1-Digest: 2NvNneAlyE5L5unRjKz9zDxqdY8=
+
+Name: assets/newImage/loading/loadingHorse.plist
+SHA1-Digest: dMl6GDKDI8Wrp+Apu7nJ1t7J9Y0=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 0b6ThmPZe1PJkZN2NuAR9rIXzvE=
+
+Name: assets/CCBRes/tk10065_2.plist
+SHA1-Digest: MgF6gOD1OQg8LFR+BTLKFNcn0yw=
+
+Name: res/layout/activity_push.xml
+SHA1-Digest: d/1OP3HtvIC+l9+bMtdbiraZ+sw=
+
+Name: assets/scene/world_map_mi.jpg
+SHA1-Digest: L+8uWWCYkdiBp/arIGSccyXyUyU=
+
+Name: assets/newImage/icon/soldierIcon1.png
+SHA1-Digest: 9sZycqOkq7id2OILz+53KOfXPq0=
+
+Name: assets/newImage/particle/yanquan.png
+SHA1-Digest: n4WZtwrsiUZzJ3/lhSMgjLJblPE=
+
+Name: assets/ccb_published/MainScene_B/TaskGuideMainCityLayer.ccbi
+SHA1-Digest: GBjeNPDmIaggD3IIsfF6BD0w2Cw=
+
+Name: res/layout/activity_iap.xml
+SHA1-Digest: O1jZ1zL9WOSelJ4f16uXSzkOGSk=
+
+Name: assets/CCBRes/tankTrail_2.pvr.ccz
+SHA1-Digest: BQ6bN+FLP9QDXq7qOioMiGvihp8=
+
+Name: assets/com.tencent.open.config.json
+SHA1-Digest: TCAijjFuxJdEM20Vc3Fnk4fUJoQ=
+
+Name: assets/CCBRes/tk19.pvr.ccz
+SHA1-Digest: YafHXkYrOvh6tnTwph4OVGQP0uU=
+
+Name: assets/audio/tank_2.m4a
+SHA1-Digest: LWZ9bUhTSXvvsvCOHrUg7FxkTNM=
+
+Name: assets/public/1.plist
+SHA1-Digest: FOLD5EDfjuICesZHcNCJMoyp5RQ=
+
+Name: assets/public/btnParticle/accessoryLevelUp.plist
+SHA1-Digest: 5xDq7ZZBIJkq9rvMQNOCC8+JnLM=
+
+Name: assets/CCBRes/tk17.pvr.ccz
+SHA1-Digest: HNZXz1TXWF3M3wlus+JXbd2SZ/I=
+
+Name: assets/scene/battles_new_2.png
+SHA1-Digest: nfvI27wRikJ1g0QmGuvfhUsOw8U=
+
+Name: assets/public/dengluchainSys/kaihuo1.png
+SHA1-Digest: KQtXkpZwxLV8Weg9gtzkUYccSkQ=
+
+Name: assets/ccb_published/MainScene/InstructionA.ccbi
+SHA1-Digest: e0ujVjJwY1bXP99XB7esOzoef7k=
+
+Name: classes.dex
+SHA1-Digest: XgdoL9cP6O5pi/9OnlcA8aMEnXI=
+
+Name: assets/newImage/activity/green.plist
+SHA1-Digest: QsuAEEkSeumXGy3DucpYNhW4Bkw=
+
+Name: assets/ccb_published/CheckPoint/ld_tk17_10.ccbi
+SHA1-Digest: xt5bUmpFVtWv4yn3tZpnI3TBhfY=
+
+Name: assets/boatImage/pressedPkg/homeBuildingDecorate.plist
+SHA1-Digest: /BtUEmj9iobyvMPLUtOto5zXKkI=
+
+Name: assets/newImage/building/college.plist
+SHA1-Digest: W8vxsBmK80L+DMIAzuQouspKGg0=
+
+Name: assets/boatImage/pressedPkg/mainUIImageNew1.pvr.ccz
+SHA1-Digest: uYNyNwV+3k5zhcj9eHjbzq0vLM4=
+
+Name: assets/newImage/particle/festivalSpring/caishen.plist
+SHA1-Digest: vOMrwX9k/c45cvdQ5xTCPgyO5oc=
+
+Name: assets/boatImage/pressedPkg/old_main_ui_image_1.pvr.ccz
+SHA1-Digest: QU8GmgoEGtuGNB34ljB5EFd1JKE=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_real_name_btn_text_color.xml
+SHA1-Digest: HzCm0H+zlFls6S1iU7FLdjHpxzA=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_icon_fenge.png
+SHA1-Digest: NX8qVAX6DihAdmdNk/g8shYPv+4=
+
+Name: assets/newImage/activity/acHuoxianmingjiang.pvr.ccz
+SHA1-Digest: Pn43CIgAJ036aCT9OIg6PKUEolA=
+
+Name: assets/com.tencent.plus.logo.png
+SHA1-Digest: B+1AMe3cF/KE17U2+A9Ol1T9mEA=
+
+Name: assets/buttonPost.png
+SHA1-Digest: jAZacXy5ocEht6Mv0CIw6+BDN/w=
+
+Name: assets/newImage/battle/grey_cloth.png
+SHA1-Digest: RUBefDPSbb0M+rDa/4ydDHZh9Ac=
+
+Name: assets/ccb_published/MainScene_B/Liftinglever.ccbi
+SHA1-Digest: XFJpyuSWO1ywbzt0bkNo3Ns2NTA=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_icon_baoquanicon.png
+SHA1-Digest: 6X0g59QZMuG5ysYbvBUfRDsqhfU=
+
+Name: assets/ccb_published/MainScene/InstructionC_Back.ccbi
+SHA1-Digest: QHH+bSjfurNClGOM9km0a+t/0rQ=
+
+Name: assets/newImage/battle/newWarCommon.pvr.ccz
+SHA1-Digest: Dd7y2RFpAfHD7coaXzWxKBF4m3k=
+
+Name: assets/CCBRes/tankTrail_1.plist
+SHA1-Digest: wA6Xly/2Pm4DsPp3+jc4YwQhS2E=
+
+Name: assets/CCBRes/tk12_1.pvr.ccz
+SHA1-Digest: 0IyQxcKnG9fKjYwVgc36RWckSys=
+
+Name: assets/ccb_published/MainScene/CombatCenterBuild.ccbi
+SHA1-Digest: vP6SItlMjpnB3+7kspKdbbIUA1Q=
+
+Name: assets/ccb_published/CheckPoint/ld_tk16_10.ccbi
+SHA1-Digest: yf3nl/Ii7E3PlknT5selMhhG6dc=
+
+Name: assets/ccb_published/MainScene_B/AirdropMaterialLayer1.ccbi
+SHA1-Digest: Dy4V73RA/bJYcwXE+unEZC4ZBNc=
+
+Name: assets/newImage/particle/festivalSpring/pao01.plist
+SHA1-Digest: PZw1g3ZOEiqrlJR4FvFce3uZuZs=
+
+Name: assets/newImage/uncompress/unCompress4.plist
+SHA1-Digest: koeILRl9mWcA3k9fqfZ67bjbPXo=
+
+Name: assets/public/btnParticle/dianji01.plist
+SHA1-Digest: XbE8GKal4MMQ84JgSCBAKu/VLas=
+
+Name: assets/newImage/activity/guihuo.png
+SHA1-Digest: nrXlfS0qS7hEupRU5CJevjmL1xE=
+
+Name: assets/audio/battleGround.m4a
+SHA1-Digest: Ougm+atoZEdU3B22yI/DFoD24IY=
+
+Name: assets/ccb_published/MainScene_B/PatrolDogAnim2.ccbi
+SHA1-Digest: y6gK62tuAzgtewbSf3pSWmWX8Sc=
+
+Name: assets/ccb_published/MainScene/NoticeBuild.ccbi
+SHA1-Digest: sll/yf1qwiG9NFCpRr7CpnDOj4U=
+
+Name: assets/ccb_published/MainScene/MainBuild_16.ccbi
+SHA1-Digest: /CMJoCawKfAylprueIWIS0MwRtE=
+
+Name: assets/CCBRes/tk13_1.plist
+SHA1-Digest: DMhoxrQHmXoHHiaWsvDVlh3yRUs=
+
+Name: res/drawable-xxhdpi/com_tencent_ysdk_icon_app_bg.png
+SHA1-Digest: PKTqYA5pe52OLXPGPqrkj+rE6LA=
+
+Name: assets/CCBRes/decorate_map_2.pvr.ccz
+SHA1-Digest: 2XhX98wIY5bkFnAUl40+KMJkfsU=
+
+Name: assets/ccb_published/TankNode/tank8/Tank18_2.ccbi
+SHA1-Digest: 1uaoaLtnAVx624yoh2jVZgr9Z3I=
+
+Name: assets/ccb_published/TankNode/tank8/Tank10075_2.ccbi
+SHA1-Digest: 4wU8QT9px1LnWEGASwSArjo1a54=
+
+Name: assets/ysdkconf.ini
+SHA1-Digest: zo5E+U6D8iVW0DR0dCjn27xHD6M=
+
+Name: assets/ccb_published/worldRebel/wRebel_15.ccbi
+SHA1-Digest: tMwJrHkxLIEHVAZRNxOWfBMXVMw=
+
+Name: assets/newImage/uncompress/unCompress2.pvr.ccz
+SHA1-Digest: ODAjgdvcINu7NXP2NUzzl68tFgs=
+
+Name: res/drawable/tencent_rsdk_wx_btn.xml
+SHA1-Digest: QHdA/aMij85YuGKkTDPfJz0k3wQ=
+
+Name: assets/newImage/particle/patrolBoatWave.png
+SHA1-Digest: OmGWS6pGPuGV8XWA/pz80s4tOVU=
+
+Name: assets/newImage/particle/zbc.png
+SHA1-Digest: 1qrh9E1zeKCHX91oPGb6FoqWbu0=
+
+Name: assets/newImage/particle/yanquan.plist
+SHA1-Digest: arBFLPsHIOT5Vp/2hlWMUJ+5cjA=
+
+Name: assets/newImage/particle/festivalSpring/pao04.png
+SHA1-Digest: 8OB2n31vxWy7ah3LUg2hZlEskzA=
+
+Name: assets/newImage/particle/trim_activity.png
+SHA1-Digest: ozGR2iNH348QcIdcgLBDrpXSXNI=
+
+Name: assets/newImage/mainUI/vipNew.plist
+SHA1-Digest: xafwDEKlAby/AkkwZy4+iZLAhC4=
+
+Name: assets/ccb_published/MainScene_B/Plane_Back_B.ccbi
+SHA1-Digest: 7w6sPn+/h2cdYcEWoMPvg19xmrQ=
+
+Name: assets/public/warehouseDibiao6.png
+SHA1-Digest: 0nRYoWGDP2krrTzGFdtHasKWpvk=
+
+Name: assets/CCBRes/tk10_2.pvr.ccz
+SHA1-Digest: jGmQ7kjicHpIRzqXQl9zK8LjTAc=
+
+Name: assets/boatImage/pressedPkg/old_main_ui_image_2.plist
+SHA1-Digest: WfHEbpEXfysZMsX1+s1ECkgF4gk=
+
+Name: assets/newImage/bossParticle/huo.plist
+SHA1-Digest: msKTR7iWT8j6ljqeBNj0P3/c9ns=
+
+Name: assets/ccb_published/TankNode/tank1/Tank2_1.ccbi
+SHA1-Digest: y34Whhq6QopZWfmpp38/paOXDUI=
+
+Name: assets/newImage/particle/battle_mt_desert_2.png
+SHA1-Digest: WR9RNW4jfCe2wKCC/En+yakzvZo=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_icon_h5.png
+SHA1-Digest: epvZUSezqP1ZXUo1JJH4Y0L5rjM=
+
+Name: assets/ccb_published/TankNode/tank1/effect/FireEffect2.ccbi
+SHA1-Digest: zRE4PybUz6srIywLXLXla+BPtY4=
+
+Name: assets/newImage/soldier/walkingSoldier.png
+SHA1-Digest: hAegi1NsNyjgp1no9tNj+N9NpqA=
+
+Name: assets/newImage/particle/festivalSpring/lipao.png
+SHA1-Digest: 4zJw9Z/MfmUihnNQBQTPuiBbKuo=
+
+Name: assets/ccb_published/Animations/location.ccbi
+SHA1-Digest: ft1s1VfiFZYQOk+2zIPLQ5og2qM=
+
+Name: assets/ccb_published/MainScene_B/PatrolBoat.ccbi
+SHA1-Digest: 6iAchI3uY1A7kZrvw3coh+D4nD4=
+
+Name: assets/ccb_published/MainScene_B/PatrolAnim.ccbi
+SHA1-Digest: zcWf9hJfTS20DKRjBkcy6gAmz74=
+
+Name: assets/ccb_published/WarriorQueue/WarriorUi5.ccbi
+SHA1-Digest: 5ZoSH9kGEFU0ZCKlqO9zfRiM9jM=
+
+Name: assets/newImage/soldier/soldierType4.plist
+SHA1-Digest: e9fCgLu4dhWS+T1GJeTP8iHHanE=
+
+Name: assets/scene/acmainnotemohubg.jpg
+SHA1-Digest: J08p3uUfTCYREzKs48uYD4Td3s0=
+
+Name: assets/public/iconGoldImage.plist
+SHA1-Digest: yq1SNdlrqXhYtsmr7DbGZmJ30wE=
+
+Name: assets/newImage/soldier/soldierType2.plist
+SHA1-Digest: mhL5J3zRQ6Xf6G8HMjSO8FMThaA=
+
+Name: assets/ccb_published/MainScene/Plane_ChiBang_luan2.ccbi
+SHA1-Digest: PyKpNiNm1ArsSx/eOJ35idtWBX0=
+
+Name: assets/CCBRes/tk15_2.plist
+SHA1-Digest: yuzO7rFxrP1av8iaWreLaW6CytU=
+
+Name: assets/newImage/activity/mibaoImage.pvr.ccz
+SHA1-Digest: 3ox7ziEtNb0H09WwkM1wP5S2QEk=
+
+Name: assets/public/particleFire.png
+SHA1-Digest: gsv+WjLPxv9Y0CErfqijNyRdmJk=
+
+Name: assets/newImage/loading/loadingHorse.png
+SHA1-Digest: aIPvSCwOVyfUciHY5o9kEFqDmvs=
+
+Name: assets/newImage/activity/jifen01.plist
+SHA1-Digest: zgdFO+5/upWHoM2Uq/9vEd2VevA=
+
+Name: assets/newImage/activity/purple.png
+SHA1-Digest: J96vTj6lwVvCxB1uoYX+vUxxmAI=
+
+Name: assets/newImage/bossParticle/yan.png
+SHA1-Digest: 8xEBF5T8GBs02MElEFexFooryMw=
+
+Name: assets/newImage/mainUI/liebingHoom10015.pvr.ccz
+SHA1-Digest: tYh7JspJ9LBLRGgnDgJbZFP1r7I=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_icon_forcepopxx.png
+SHA1-Digest: y3CeSBhxQ4hRYzt50IaUnqgwBzI=
+
+Name: assets/com.tencent.plus.ic_error.png
+SHA1-Digest: HisWESn8PSVNnjhjfsbMtsajomo=
+
+Name: assets/background.9.png
+SHA1-Digest: M3YQ4bymCLlirCApFCkEMdWdqrA=
+
+Name: assets/scene/logoImage/Logo_zh2.png
+SHA1-Digest: dAaG9x70pGAdWuq31bEezWkcGGU=
+
+Name: assets/CCBRes/breakShield.plist
+SHA1-Digest: om5nI0cvPPggiOZc6+SAiDFS0rY=
+
+Name: assets/boatImage/mainUi/chat_look_image.plist
+SHA1-Digest: mRDIydGV4iIJIjanIqywzrMZGUA=
+
+Name: assets/ccb_published/MainScene/ChikenAnim_3.ccbi
+SHA1-Digest: xgN5p9HnIWjoGTIFea0e9InnpAQ=
+
+Name: assets/CCBRes/tk4.plist
+SHA1-Digest: YObreASktKP1OlRA8JMrGjPysrg=
+
+Name: assets/ccb_published/CheckPoint/ra1_2.ccbi
+SHA1-Digest: qKz56qv81YOXlEz2yMOCVKUAvPs=
+
+Name: res/layout/com_tencent_ysdk_real_name_dialog.xml
+SHA1-Digest: EOEbXKWpQCygMP4pj3p+MpoVsKo=
+
+Name: assets/ccb_published/TankNode/tank1/effect/smokeEffect.ccbi
+SHA1-Digest: DOVnGbR/eQgRzkoxHp7dNgTRwqo=
+
+Name: assets/newImage/activity/bai.plist
+SHA1-Digest: QHx6HVAPUSo1x2TF/AF/S4B46jo=
+
+Name: assets/newImage/homeMap/newHomeMap.pvr.ccz
+SHA1-Digest: 4NvMoiihiTxEK+ttUY8+gOFXiPU=
+
+Name: assets/CCBRes/shield.plist
+SHA1-Digest: y5mI/VbX6Yz1POwyJVdh6T93J8Y=
+
+Name: assets/ccb_published/TankNode/tank4/Tank13_1.ccbi
+SHA1-Digest: iIOnyoZ6uj/jqBaCL25CupOHCK8=
+
+Name: assets/CCBRes/tk17.plist
+SHA1-Digest: rQgPl60AFcF8pwR24U6pjNPxHRY=
+
+Name: assets/boatImage/mainUi/createNameImg.plist
+SHA1-Digest: rj8BiStlNz4pbmW1C9Ccfe5VAU8=
+
+Name: assets/newImage/mainUI/liebingHoom10025.plist
+SHA1-Digest: IkHPS4wuyGusui/JH+fuLDPLiX0=
+
+Name: assets/ccb_published/WorldUi/WorldGuidUi.ccbi
+SHA1-Digest: B3iB2J/7oK1NLgbl4HOiC1P8RFk=
+
+Name: assets/public/hero/heroSkillsImage.pvr.ccz
+SHA1-Digest: jNM9GYhmuZMr0ZApeoP8FhBVTbY=
+
+Name: assets/newImage/activity/acDanrixiaofei.plist
+SHA1-Digest: eBitxGDBEDZ/xqCz8tLlpPXfF4k=
+
+Name: assets/ccb_published/MainScene/Instruction_sy.ccbi
+SHA1-Digest: GTkvuGt9ZxIXy+isTbrtOZyWuKI=
+
+Name: assets/newImage/activity/luckLottery.plist
+SHA1-Digest: ZTn3VRQoZtB/FtIn/2MSi/9pvuU=
+
+Name: res/layout/activity_share.xml
+SHA1-Digest: hXA50ekpsv9bIfyUcw6RCk+wxGQ=
+
+Name: assets/newImage/building/soldierFactory.plist
+SHA1-Digest: nuCdFIWA2qsdxwHgqNZZeEIGxjY=
+
+Name: assets/CCBRes/tk16.plist
+SHA1-Digest: vCOXKXnSEd51gOt+ci4Gd02vjmk=
+
+Name: res/layout/com_tencent_ysdk_real_name_webview_dialog.xml
+SHA1-Digest: IaovLuNuHYYzRGRAODHVBiKZq5Q=
+
+Name: assets/public/btnParticle/caiji02.png
+SHA1-Digest: Qj3G7QgoP+NDQ5dzG1bJqrvqH6k=
+
+Name: res/layout/com_tencent_ysdk_icon_window_result_layout.xml
+SHA1-Digest: wDwtyovMTMmC+HqrbAdS/3t2Z3A=
+
+Name: res/drawable/sample_yuanbao.png
+SHA1-Digest: 9ZY3ZKL4kzg/dm1DTWo5I/lUmkY=
+
+Name: assets/ccb_published/CheckPoint/b16.ccbi
+SHA1-Digest: FX5OcA61jbhST2M48r4fuXYlBzU=
+
+Name: assets/newImage/activity/acDanrixiaofei.pvr.ccz
+SHA1-Digest: Y7rioBjLl0zeZSY8CT9yla4W0hA=
+
+Name: assets/public/allianceiconres/upXian.png
+SHA1-Digest: MpDA8LaqN9aTyETKFl5zH7aAzrs=
+
+Name: assets/ccb_published/MainScene/IronBuild.ccbi
+SHA1-Digest: Ae7oDvCJJbUjqHwB0tlvZAfRRao=
+
+Name: assets/newImage/soldier/soldierType8.pvr.ccz
+SHA1-Digest: w5vV3DB8MbriiasLXipOZXd9kyA=
+
+Name: assets/public/btnParticle/lingqu.plist
+SHA1-Digest: c84QVJxfy5VbPUS9rNyfkNNMs5Y=
+
+Name: assets/newImage/portScene/zbc.png
+SHA1-Digest: 1qrh9E1zeKCHX91oPGb6FoqWbu0=
+
+Name: assets/ccb_published/MainScene/AllianceBuild.ccbi
+SHA1-Digest: SgrCmmYO4s/RPM30/WpmXrHmJwY=
+
+Name: assets/newImage/activity/activityIcon.pvr.ccz
+SHA1-Digest: SvPCDPBlS2XVS/NYspUNHyuMDkg=
+
+Name: assets/newImage/activity/acNewGiftsdialog.plist
+SHA1-Digest: YyS3r7gUWpYzxJmdjpfMuFDhjjY=
+
+Name: assets/newImage/mainUI/liebingHoom10014.pvr.ccz
+SHA1-Digest: uFTEGtRql+tb5FXsODWMLqdhKsY=
+
+Name: assets/ccb_published/CheckPoint/ckp_1_4.ccbi
+SHA1-Digest: 5TD4dlMNzkSDobRYfRKk1qRwKt4=
+
+Name: assets/newImage/particle/frontRise.png
+SHA1-Digest: OmGWS6pGPuGV8XWA/pz80s4tOVU=
+
+Name: assets/newImage/particle/trim_activity.plist
+SHA1-Digest: Nj2xvJZHQmkpwZ6oIpvyx/iYz8U=
+
+Name: assets/newImage/particle/battle_mt_desert_2.plist
+SHA1-Digest: 7fvfOqz1jfjTZV/g/3MPVHSLnss=
+
+Name: assets/newImage/particle/battle_mt_desert_1.png
+SHA1-Digest: VYA7Puua7UNzGCRemrsLmNhK7dY=
+
+Name: assets/public/hero/heroIcon1.plist
+SHA1-Digest: /y5L8fkwQNmjoMuD97avZelc+wQ=
+
+Name: assets/ccb_published/MainScene_B/LocalWarFightAnimLayer.ccbi
+SHA1-Digest: DNWoNIeBBTpiaJuZAcN5wEuXhAA=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_icon_xiaoxi_icon.png
+SHA1-Digest: rfEIEROE3hcxA0+ERnb5P0KSF+0=
+
+Name: assets/newImage/shop/shopNew.pvr.ccz
+SHA1-Digest: 7PEi0nOLYyhDp3m2/RhnjnHrzMs=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_real_name_must.png
+SHA1-Digest: sy16USpc0YpPiSRwEFsyGfibeZM=
+
+Name: assets/yyb_appdetail_bg_floatingwindow.9.png
+SHA1-Digest: iOF6vy6Ma8SqrJZVpH/hMwRSMP0=
+
+Name: assets/public/armorMatrix/armorMatrix03.png
+SHA1-Digest: AbkaFq3/PnnxL0bVbWW/iAWRavE=
+
+Name: assets/ccb_published/MainScene/world_plane_dir_3.ccbi
+SHA1-Digest: w1w4tebCAwZxvEkNoO/N4/VN0+0=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_icon_forcepopbutton.png
+SHA1-Digest: 1pNASgbXf6Fkg5KJ6lWHNp20WZI=
+
+Name: assets/newImage/localWar/localWar.pvr.ccz
+SHA1-Digest: RWa3ffjb3atmyRhLNhcVK5Q1ggA=
+
+Name: assets/ccb_published/MainScene/InstructionE_Back.ccbi
+SHA1-Digest: qGt82hUimESBY0i7OR5ch/WCF8k=
+
+Name: assets/ccb_published/MainScene_B/AirdropMaterialLayer3.ccbi
+SHA1-Digest: 2zvC1BxRf9Kxrb+eCfqs2Dn8Crg=
+
+Name: assets/ccb_published/CheckPoint/ro3_4.ccbi
+SHA1-Digest: KM0hWeO8oWtvLKWNgiMbpxgbxgo=
+
+Name: assets/ccb_published/MainScene/InstructionA_Back.ccbi
+SHA1-Digest: XGT+RKxIr4N6Dgk5G9x1wsL4IdU=
+
+Name: assets/ccb_published/TankNode/tank2/Tank9_1.ccbi
+SHA1-Digest: JI5Jt1G4sNJSKoYD4IuTx2XNJM0=
+
+Name: assets/newImage/activity/purple_star.png
+SHA1-Digest: dgP5/NigXtGzA7t+egSb+PMeQuE=
+
+Name: assets/newImage/particle/festivalSpring/lipao01.png
+SHA1-Digest: BGyyqDp9vkxKQ1sAIhaVABoJ0WA=
+
+Name: assets/ccb_published/MainScene_B/MainUiSunShine.ccbi
+SHA1-Digest: k8gs9I0Z854t6rCoOiuXjXrmur0=
+
+Name: assets/audio/typewriter.mp3
+SHA1-Digest: TL0I8plEXlmkfHM8Kc9LLTFRoXQ=
+
+Name: assets/CCBRes/tk10_1.plist
+SHA1-Digest: jY058pcs9ywtsJTxfMm+gwv6sZs=
+
+Name: assets/newImage/mainUI/AirdropMaterial.plist
+SHA1-Digest: hyfQ0s63UX61vf7bcYSvYEs0Uos=
+
+Name: assets/ccb_published/BattleScene/AnimationVS.ccbi
+SHA1-Digest: vawi3h7+XWm2pzBnkOCpjymFihM=
+
+Name: assets/newImage/particle/juntuan03.png
+SHA1-Digest: ozGR2iNH348QcIdcgLBDrpXSXNI=
+
+Name: assets/ccb_published/TankNode/tank8/Tank20_1.ccbi
+SHA1-Digest: ZrooweGjO8gOqJzZlVemvVBg/iw=
+
+Name: assets/ccb_published/MainScene_B/HomeMap.ccbi
+SHA1-Digest: c5IpR1J7r6KUywES9U+W+hixURA=
+
+Name: assets/boatImage/pressedPkg/newReportImage.pvr.ccz
+SHA1-Digest: ixemeRDG8+POIyJx7pYvkJ83cJw=
+
+Name: assets/CCBRes/tk18.pvr.ccz
+SHA1-Digest: GuCB0pZfItb1+KU86FrpBuzFSig=
+
+Name: assets/audio/building_lv.m4a
+SHA1-Digest: pe++hjzf294R+tmEhjkddZGage4=
+
+Name: assets/boatImage/story/chapter/story_chapter_7.jpg
+SHA1-Digest: Z9cOUWISHwTHCOGCRnb3ZNzqM8E=
+
+Name: assets/ccb_published/TankNode/tank2/effect/HitBulletEffect1.ccbi
+SHA1-Digest: dKEpL2CL4lY/xwbbjMq90XMlO+o=
+
+Name: assets/ccb_published/CheckPoint/ra5_tk19_ro5_15.ccbi
+SHA1-Digest: Nq6P4Wxbnx4feps2lgr5VmLVdwQ=
+
+Name: assets/ccb_published/TankNode/tank2/Tank10_2.ccbi
+SHA1-Digest: tN5o/iMI+v+LHOeGn03PsuTa+Rk=
+
+Name: assets/newImage/activity/blue.plist
+SHA1-Digest: PNTbsdm2SMfi80FsXJ7LYI3EAIE=
+
+Name: assets/ccb_published/Activity/activity.ccbi
+SHA1-Digest: AmHGsYMatlV/rAORT2xHvsKAeO0=
+
+Name: assets/ccb_published/TankNode/tank8/Tank19_2.ccbi
+SHA1-Digest: DYofCG0NdIb3j5vp6uT/pX+YD2k=
+
+Name: assets/public/hero/heroIcon1.pvr.ccz
+SHA1-Digest: XTtchM88N5qKrEMkkQ/RGXKgB+I=
+
+Name: res/layout/activity_social.xml
+SHA1-Digest: /XTXQ0JFMbI8y/G7kPfzLz8BZR0=
+
+Name: assets/newImage/updateImage/updateImage1.plist
+SHA1-Digest: 6TuYxLyOSAW66g1P/4Rj0ELJ5tA=
+
+Name: assets/newImage/battle/newWarMap.jpg
+SHA1-Digest: MpZzfYXlygNYIDzjCqU8Wp4pEYA=
+
+Name: assets/newImage/story/shibai.jpg
+SHA1-Digest: w/6qOZgVvs9WBwwtQx8g5UP+acI=
+
+Name: assets/ccb_published/TankNode/tank8/effect/HitBulletEffect2.ccbi
+SHA1-Digest: lJA2UPvZOGkvSrRv1/wQvJl/Ql8=
+
+Name: assets/newImage/activity/acHuoxianmingjiang.plist
+SHA1-Digest: AYOV3OQgZRPMgdhRBTTNadTC3VQ=
+
+Name: assets/newImage/uncompress/newUnCompress.pvr.ccz
+SHA1-Digest: PZqRI0gh8zTDspDFy1mYp9A8xAM=
+
+Name: assets/newImage/particle/zbc.plist
+SHA1-Digest: BfB8F5DrL3iaOKMXYwZW+UOpmAo=
+
+Name: assets/public/yuanDanyactanhua/LevelUp_FireworksBoom01.plist
+SHA1-Digest: fSGFyldLsECbGR54KBT8VWUvSks=
+
+Name: assets/newImage/particle/shuijiao.plist
+SHA1-Digest: 3xcFPyX0SQd0iQhklqPg67yuv0o=
+
+Name: assets/newImage/activity/acSendGeneral.plist
+SHA1-Digest: 4VLbBQWaJ2eaYx25m0nj6WjU2eU=
+
+Name: assets/newImage/localWar/localWar2.plist
+SHA1-Digest: +Ge4fqeECHx07Ze1LoYMMy9yVeU=
+
+Name: assets/ccb_published/CheckPoint/ckp_1_3.ccbi
+SHA1-Digest: JCe9Q9aalVZEH9+opbURi8b4r6I=
+
+Name: assets/newImage/particle/rewardconter1.plist
+SHA1-Digest: yZL0GVO6hard8HSqkf/ZPa/7+pA=
+
+Name: assets/ccb_published/MainScene/BuildOperation2.ccbi
+SHA1-Digest: r31YSduOxZQcTWSv5yuh6vAoDDw=
+
+Name: assets/ccb_published/MainScene/Plane_ChiBang.ccbi
+SHA1-Digest: VCxNk3BKnLsm3fbBhwcS/IT5vS4=
+
+Name: assets/CCBRes/hjc_8.pvr.ccz
+SHA1-Digest: ilqu9OHVl8ZXtTOvgjFFwtqS5IA=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_icon_admin_apply_flash.png
+SHA1-Digest: ZcGg/RCNJSE6UB8COhMrQZu0pJM=
+
+Name: assets/ccb_published/CheckPoint/b17.ccbi
+SHA1-Digest: 6GUyXVueVoetZ7RWPNf5ErdbETg=
+
+Name: assets/newImage/localWar/localWarResult.plist
+SHA1-Digest: 4FTpAcuPm05OcCAVUcVfWIS6Kmk=
+
+Name: assets/ccb_published/WarriorQueue/TankQueueNew2.ccbi
+SHA1-Digest: +5HXYvKJY7dasph3wXLYwWCaus8=
+
+Name: assets/ccb_published/MainScene/Plane_ChiBang_luan.ccbi
+SHA1-Digest: vYMAoT5vTCeEf1OSVPZT60KIh3k=
+
+Name: assets/CCBRes/tk3.plist
+SHA1-Digest: qd4/+rsnuLcT90O2vydgxLrT8R8=
+
+Name: assets/public/vs.png
+SHA1-Digest: RtRlGjaJiRA4Wk3W8RAf4536spo=
+
+Name: assets/public/allianceiconres/rightWing.plist
+SHA1-Digest: WbAhEnd8ZtTAwlXCO6S1ckAdhlA=
+
+Name: assets/newImage/particle/gaizao.plist
+SHA1-Digest: tEnXNiGRfxagRBiYjlq3aS1mZ+w=
+
+Name: assets/CCBRes/tk8_2.plist
+SHA1-Digest: Jt1Jot5z+cZa9xTSVY4YEWNmvUM=
+
+Name: assets/ccb_published/MainScene_B/Plane_Come_B.ccbi
+SHA1-Digest: pD6cxBRz2W5xzTVsjrhBMhkSTUI=
+
+Name: assets/boatImage/pressedPkg/storyMapImage.plist
+SHA1-Digest: 4tVffVyRB47q73HBjdBM9DTa4gM=
+
+Name: assets/newImage/building/college.pvr.ccz
+SHA1-Digest: SGDgoPDU7PzgfQoJ3kwrl8FpwKU=
+
+Name: assets/ccb_published/TankNode/tkBoss/tkBossTurrent.ccbi
+SHA1-Digest: LKsIwLRRuym2Ov98K+4/sPZk4NA=
+
+Name: assets/ccb_published/CheckPoint/tk5_oil_11.ccbi
+SHA1-Digest: a5R/hTlCLOgrpwvW64Tkc7dB3mA=
+
+Name: assets/boatImage/pressedPkg/accessoryImage.pvr.ccz
+SHA1-Digest: SECgZq8w5Zw7yrUxNLKoWqloVEQ=
+
+Name: assets/scene/NAN2.png
+SHA1-Digest: YicbbNNC7zXsbVv5NBL1Dyf8rAg=
+
+Name: assets/newImage/localWar/localWarCommon.plist
+SHA1-Digest: wDVySt1IIpOYjg/6OFDrXcKpcxs=
+
+Name: assets/ccb_published/TankNode/effect/trail_1.ccbi
+SHA1-Digest: xt4IYCG+7ONcaG71ifNa/HcoWxY=
+
+Name: assets/newImage/activity/activityIcon.plist
+SHA1-Digest: Li7KqOpFltuiP8guWCQ61xdVaDg=
+
+Name: assets/newImage/mainUI/liebingHoom10022.pvr.ccz
+SHA1-Digest: Y51w7Nvsx61n6NNUmaHYpc7W/Js=
+
+Name: assets/ccb_published/MainScene/InstructionD.ccbi
+SHA1-Digest: oXXL0HYuef+mfVMXI/ITPbirkR4=
+
+Name: assets/ccb_published/TankNode/tank2/Tank7_1.ccbi
+SHA1-Digest: 4DsmQzrAm1QdMftAv8zw5KV2r4g=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: vmI6xZZk1efoeGpojQLgxabw84E=
+
+Name: assets/ccb_published/WarriorQueue/WarriorUi8.ccbi
+SHA1-Digest: LHS//KIWZP2GY+pUGygGWv8zJyU=
+
+Name: assets/boatImage/mainUi/iconAndBoatImage.pvr.ccz
+SHA1-Digest: RoDKBuHS8qkyXGVV8SxyoisRA6A=
+
+Name: assets/newImage/portScene/paymentAnim.png
+SHA1-Digest: tMyI5kyj+vrFXUM8eeZiQvuD5sQ=
+
+Name: assets/newImage/activity/bstar.plist
+SHA1-Digest: 78MnjbaaLItTQYyfyPghy6rP0C4=
+
+Name: assets/newImage/particle/christmas_xue01.plist
+SHA1-Digest: F8ggweNQR+ss+Itye/IrneSZ7hE=
+
+Name: assets/ccb_published/CheckPoint/tk1_6.ccbi
+SHA1-Digest: ohwkUPh+3+JvLAPvT1OSgL9RsYs=
+
+Name: assets/newImage/icon/btnIcon.plist
+SHA1-Digest: z8LT+ccgL2OxOWM8xBGN89Kz8N4=
+
+Name: assets/com.tencent.plus.blue_down.png
+SHA1-Digest: P5pLNnim3nMuEA2ZM1/RdQsqIUY=
+
+Name: assets/ccb_published/TankNode/tank1/Tank1_2.ccbi
+SHA1-Digest: 7617SxLo+/rvdwjhR8ZHnC0VFQI=
+
+Name: assets/newImage/activity/acJifenFanPai.plist
+SHA1-Digest: VZOcsOzoHbCmvAYy317giuEaPTw=
+
+Name: assets/public/hero/heroImage.plist
+SHA1-Digest: xnFOwfnODJ6AzmXYK/+GwuodoIE=
+
+Name: assets/ccb_published/MainScene/InstructionB_Back.ccbi
+SHA1-Digest: +9bTY47CqExgzrx5ab6nzL3N4Jk=
+
+Name: assets/audio/background_Warning.m4a
+SHA1-Digest: GVpueVq3ZnUZ0MDDZnVcvdo3XBs=
+
+Name: assets/ccb_published/TankNode/tank2/effect/BulletEffect1.ccbi
+SHA1-Digest: JuYVBKmXyxS5vrFVvwK//xONEbk=
+
+Name: assets/ccb_published/CheckPoint/ckp_1_16.ccbi
+SHA1-Digest: FX5OcA61jbhST2M48r4fuXYlBzU=
+
+Name: assets/public/logo_effect.png
+SHA1-Digest: /R663JXJc9HMjoo45jNOIb7tSuo=
+
+Name: assets/fonts/android_emoji.ttf
+SHA1-Digest: hbj5wHV1ici9SyMv8kFumg5qbt8=
+
+Name: assets/newImage/battle/newWarCommon.plist
+SHA1-Digest: 9JDRKTaHIhIRltTzWliQvm4S5/0=
+
+Name: assets/public/btnParticle/starBgParticle.png
+SHA1-Digest: gAjzIe91Ap7KfNuIGbnMiqfKcMQ=
+
+Name: assets/ccb_published/MainScene_B/PatrolDogAnim3.ccbi
+SHA1-Digest: CKhDoRy2ztfQSvbn0SK9YONLUx4=
+
+Name: assets/newImage/localWar/localWarCityIcon.plist
+SHA1-Digest: IzsTRrgkhOONAcFdKlbx+phoT+A=
+
+Name: assets/newImage/mainUI/liebingHoom10014.plist
+SHA1-Digest: ueWMbF0K8TA/ru7qh67ezp/6pKg=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_icon_forcepopbanner.png
+SHA1-Digest: ty3y3CY7RtSY3uQh5y6MJ8+Xo9I=
+
+Name: assets/boatImage/pressedPkg/mian_city_anim.plist
+SHA1-Digest: KC73/nJks+PW6TQ1z8DJAZ9eDJA=
+
+Name: assets/CCBRes/die.plist
+SHA1-Digest: S6jyAJulQYJsJKRdrBFePHQ1Gyg=
+
+Name: assets/ccb_published/TankNode/tank4/effect/FireEffect1.ccbi
+SHA1-Digest: loL+6e2hsWQKdQCwIZ+cXuSc5OI=
+
+Name: assets/newImage/particle/christmas_xue02.png
+SHA1-Digest: N0iNm7UQ17gefweP/U4cpZ7CKRA=
+
+Name: assets/boatImage/worldMap/worldRes_1.pvr.ccz
+SHA1-Digest: sohzX4yK15cRKzv44KGQPlcRH+0=
+
+Name: assets/ccb_published/TankNode/tank8/effect/BulletEffect2.ccbi
+SHA1-Digest: pAuhp9gw7KhzU/G/nqcC0e10qaQ=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_real_name_btn_sel.9.png
+SHA1-Digest: 1YZ0qumSPg/r7RYYqGyc5NpLWIY=
+
+Name: assets/boatImage/story/chapter/story_chapter_10.jpg
+SHA1-Digest: f9XV2rgbN0DlzLza+oU/t6oEou0=
+
+Name: assets/ccb_published/TankNode/tank8/Tank17_1.ccbi
+SHA1-Digest: xOmxELvlv74QTjneFDbr896HYt0=
+
+Name: assets/newImage/portScene/fountaintextAnim.png
+SHA1-Digest: P7AjXr9v8rKicSziwjwN40tvlOU=
+
+Name: assets/com.tencent.plus.bar.png
+SHA1-Digest: Uqc6Y8bgiyAUESBhMAg2jzRRLpk=
+
+Name: assets/newImage/particle/christmas_piao.png
+SHA1-Digest: BGyyqDp9vkxKQ1sAIhaVABoJ0WA=
+
+Name: assets/newImage/activity/acshuijinghuikui.plist
+SHA1-Digest: W2B9JxkNjfA+REeVQKntDcxqIXY=
+
+Name: assets/public/particleFire.plist
+SHA1-Digest: 9pvQYdTcly2A9B0sH8+B+36CafA=
+
+Name: assets/public/shengDanKuangHuanPic/lvse.png
+SHA1-Digest: AbkaFq3/PnnxL0bVbWW/iAWRavE=
+
+Name: assets/ccb_published/TankNode/effect/shell.ccbi
+SHA1-Digest: qNCnPk2s+iGuryQ+1IPL5YVp75o=
+
+Name: assets/newImage/mainUI/liebingHoom10012.pvr.ccz
+SHA1-Digest: S3ySs9n9yVwmGddk81UVF8AYwhg=
+
+Name: assets/libwbsafeedit_x86
+SHA1-Digest: E4GEmZNeWrKp8F7AVxxhSLF9fUs=
+
+Name: assets/ccb_published/MainScene/PatrolDogAnim_long.ccbi
+SHA1-Digest: +UBgj9P+NcfLryF9sIZ6FCpCAbs=
+
+Name: assets/ccb_published/worldRebel/wRebel_45.ccbi
+SHA1-Digest: on0jaY+G1uxdafY3IVlxdoFswv4=
+
+Name: assets/newImage/portScene/yan01.png
+SHA1-Digest: hmYjJ7QS6WtxtyKdw2/Jb0bt88E=
+
+Name: assets/CCBRes/tk6_2.pvr.ccz
+SHA1-Digest: s6vBiYKKpzbQmo6wvAP9PhrX3fk=
+
+Name: assets/CCBRes/tankTrail_2.plist
+SHA1-Digest: 4UHdx5UBFe7V8mfqjfmwc9+rIkM=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_real_name_del.png
+SHA1-Digest: mielSjotnHqgMuIiNYF+7FSwDm4=
+
+Name: assets/public/playerChangePhoto.plist
+SHA1-Digest: 1c7Twf2MRwlgLDUvjsc+gC6IJ8I=
+
+Name: assets/newImage/localWar/TrialSquadDrawing.jpg
+SHA1-Digest: y9BIvimKyNPfFYbGwwFzMsk5SlU=
+
+Name: assets/ccb_published/WarriorQueue/liebingHoom10014.ccbi
+SHA1-Digest: UZd/EJYF7OIaWk7/aEqo5uIMzp8=
+
+Name: assets/ccb_published/MainScene_B/TankAnim2.ccbi
+SHA1-Digest: vWriyjdRJ/kXaZ4WmeBMMhBnkLk=
+
+Name: assets/newImage/building/clickBuilding.plist
+SHA1-Digest: NWEytUNq3/ZS551RCSiOqP90hEo=
+
+Name: assets/ccb_published/TankNode/tank2/effect/HitBulletEffect2.ccbi
+SHA1-Digest: ZhXM5K3gEAch4kxgCHtJAlDCs3E=
+
+Name: assets/CCBRes/tk1.plist
+SHA1-Digest: IrI2wxVHKVwc+qz4ejxjHT/uvMM=
+
+Name: assets/scene/lodingxin.jpg
+SHA1-Digest: Xog+Pv7zss7tsbe0vDHug9rHJQU=
+
+Name: assets/ccb_published/CheckPoint/tk2_oil_11.ccbi
+SHA1-Digest: 3VVjwV4d8km8Gi4EMoOPmII9b9w=
+
+Name: assets/CCBRes/battleSceneAnimation.pvr.ccz
+SHA1-Digest: 2+n8TV48AOmwMsAVaGfOsD91CD0=
+
+Name: assets/audio/building_depot.m4a
+SHA1-Digest: ot5JZikvuGtGItawVZdP7Ac162I=
+
+Name: assets/boatImage/story/chapter/story_tech_header.png
+SHA1-Digest: MZXT8w0HQZk3vpKT/Gxccik+HMA=
+
+Name: assets/public/shengDanKuangHuanPic/zise.plist
+SHA1-Digest: /TkoyClDtGPOYLSa6RRh/4PEEtg=
+
+Name: assets/newImage/icon/soldierIcon.pvr.ccz
+SHA1-Digest: +4IIzpGzhpDPe4u+qPd0dM9CeYs=
+
+Name: assets/newImage/activity/acJunshijiangtan.pvr.ccz
+SHA1-Digest: EIncrvh92ZA7jphQEDfvEdiNzSs=
+
+Name: res/layout-land/tencent_rsdk_platform_popup.xml
+SHA1-Digest: R5QVJMz1ltnGd20oczxIH0KaDPk=
+
+Name: assets/ccb_published/MainScene/BuildOperation.ccbi
+SHA1-Digest: vWHtISdXHjla9pPRFx5f1wiKObQ=
+
+Name: assets/newImage/particle/festivalSpring/pao02.png
+SHA1-Digest: kqbjhxZq0wOaRhfdapJHvZcApEI=
+
+Name: assets/newImage/particle/christmas_piao04.plist
+SHA1-Digest: 5aQ27aX4gXMsY79YzlR3y9sA83c=
+
+Name: assets/ccb_published/TankNode/effect/thunder.ccbi
+SHA1-Digest: N52Ys1SuGHEqATYXm+Un8gsw3yU=
+
+Name: assets/ccb_published/MainScene/TankAnim.ccbi
+SHA1-Digest: z76nBgFnWHgZRFCqG1hrnC6JRhA=
+
+Name: assets/newImage/newYear/newYearImage.pvr.ccz
+SHA1-Digest: 5agEeKJbOWBbaGRyAJ7eXEZOUVc=
+
+Name: res/drawable-hdpi/tencent_rsdk_qq_normal.png
+SHA1-Digest: yZbUTs5gCKKtBxX149t/bezfGkY=
+
+Name: assets/boatImage/pressedPkg/old_image_public.plist
+SHA1-Digest: 0n/17gCJl9xA3o+BGx+rfHDbaHw=
+
+Name: assets/newImage/battle/newAllianceWar2.pvr.ccz
+SHA1-Digest: iRpeGOu6bPEuhGmU32RT3dMKth4=
+
+Name: assets/ccb_published/MainScene/AluminumBuild.ccbi
+SHA1-Digest: lxEg+nJjXVuH2YUagkZuy+RGhjU=
+
+Name: assets/newImage/localWar/localWarMapScene.jpg
+SHA1-Digest: 3cI7FgODUcFIaPFKCdDD8oh8tI4=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_icon_errorpageicon.png
+SHA1-Digest: ort+ynGAJU6ZXlRHJSYqdZHwsSY=
+
+Name: assets/newImage/story/stroyBg1.jpg
+SHA1-Digest: hnR/wjl1qra0vofI0dEnHuk9EZ0=
+
+Name: assets/newImage/mainUI/liebingHoom10011.plist
+SHA1-Digest: BLz72oIOgbHb7D6Desa2l0q4hUg=
+
+Name: assets/CCBRes/shells.pvr.ccz
+SHA1-Digest: rnLlrayA+T0scEoJnM5qhqD0xp0=
+
+Name: assets/ccb_published/MainScene_B/NewYearFishLayer.ccbi
+SHA1-Digest: gDCToY/MEMdQ2js80vP7ORptt3s=
+
+Name: assets/boatImage/newCommon/newCommonImage.pvr.ccz
+SHA1-Digest: g5gqew5Avz8TSFhKOgyPQJ4Z4RU=
+
+Name: assets/ccb_published/MainScene_B/TaskGuideMainCityLayer2.ccbi
+SHA1-Digest: j0fkLfMGezedrtzHzEKTz+6av84=
+
+Name: assets/newImage/portScene/soldierEffect.plist
+SHA1-Digest: 81OxxWb9RNa9sye2p3bpfBelyhU=
+
+Name: assets/ccb_published/MainScene/world_plane_dir_1.ccbi
+SHA1-Digest: cC+ad9hbmsjGriGdNdxi4ID7NVY=
+
+Name: assets/newImage/updateImage/updateImage2.plist
+SHA1-Digest: /5qwpvQXEMcydU/Ql9n+XhMBaM8=
+
+Name: assets/boatImage/newCommon/multiPay.pvr.ccz
+SHA1-Digest: iUrMvho6Zq9we1YCyFNgdNnv3vc=
+
+Name: assets/audio/explosion-1.m4a
+SHA1-Digest: v7U0E1Q7/Y6oo35HSMKRLjV2Zec=
+
+Name: res/layout-land/unipay_layout_activity_web.xml
+SHA1-Digest: Zl0IlKxRh76IkhWAuObY4OvBR8w=
+
+Name: assets/ccb_published/MainScene_B/NewYearLayer2.ccbi
+SHA1-Digest: fRekLOyH42H44DqYFwV+Zb/KzG8=
+
+Name: assets/newImage/particle/shuijiao.png
+SHA1-Digest: YMczwfNkvHAXL0LNjwoLmHzmU6E=
+
+Name: assets/CCBRes/tk9_2.pvr.ccz
+SHA1-Digest: nKq/MAALjW3kSCN2kJI0vNBya/I=
+
+Name: assets/CCBRes/tk14_1.plist
+SHA1-Digest: L4v40ZN10pj+C1/r7pTWGEsJMCw=
+
+Name: assets/newImage/portScene/fountaintextAnim.plist
+SHA1-Digest: HcgQxs3E1wWNTxaLltmGjJc+xcE=
+
+Name: assets/audio/building_dao.m4a
+SHA1-Digest: IXQhPboGk+/i+JNBa32u/Uxo0eg=
+
+Name: assets/CCBRes/tk13_1.pvr.ccz
+SHA1-Digest: Sg7kOUEv4H6P+cfelR2ZxiaSMHc=
+
+Name: assets/CCBRes/checkPoint.plist
+SHA1-Digest: 2WvpzkAA8TZJ9IeKdV+0s8DHNZk=
+
+Name: assets/newImage/localWar/localWarCommon.pvr.ccz
+SHA1-Digest: RiJPL9QlwueLqyc+skXpvRUnY8c=
+
+Name: assets/ccb_published/CheckPoint/ra3_tk18_9.ccbi
+SHA1-Digest: zwYUNOSxr11fED4w1dBdum4/YbY=
+
+Name: assets/audio/building_stationtroops.mp3
+SHA1-Digest: t466Q+ZaVYWxJcOqHsZGTqU4/kk=
+
+Name: assets/newImage/mainUI/liebingHoom10055.pvr.ccz
+SHA1-Digest: 4pp8h6pazgG7sqVZb+zNyTopZmo=
+
+Name: BeaconVersion.txt
+SHA1-Digest: lUgN6gqVt6h0gkNJI6Jzu+pBUck=
+
+Name: res/drawable-hdpi/unipay_pic_tipsbg_thin.9.png
+SHA1-Digest: 51lBdeekbzkfTbuSofad4w8bSoA=
+
+Name: assets/newImage/activity/luckLottery.pvr.ccz
+SHA1-Digest: weqbEo4DAAdaxxi4zgYPQDCgBYQ=
+
+Name: assets/ccb_published/CheckPoint/ckp_1_5.ccbi
+SHA1-Digest: NqGYChV2+8jf5VHcD10ksebxYjw=
+
+Name: assets/CCBRes/animations.plist
+SHA1-Digest: pmXwgPOfjbNadTAMd1rMdQL4wow=
+
+Name: assets/public/1.png
+SHA1-Digest: uCceBvSe3QlloJBYr6MBQbbJcJk=
+
+Name: assets/public/boomEffect/fanrongdu03.png
+SHA1-Digest: 4zJw9Z/MfmUihnNQBQTPuiBbKuo=
+
+Name: assets/public/btnParticle/shouchong.plist
+SHA1-Digest: zZaeJJqYyHNPqUWpABAAAUmRZWs=
+
+Name: assets/newImage/mainUI/liebingHoom10013.pvr.ccz
+SHA1-Digest: pDcQqRfVL1tIcRUqObiaIQAKtW0=
+
+Name: assets/newImage/portScene/zbc.plist
+SHA1-Digest: Zs4Irx4/kqUwCSkJI95+NycE2sk=
+
+Name: assets/public/acOnlineImage.plist
+SHA1-Digest: 9ZDeuLI7T3su9ETzwXQJT6T/RRI=
+
+Name: assets/ccb_published/TankNode/tank1/Tank5_1.ccbi
+SHA1-Digest: 40vqNFQe6wT/mgCIj6y3WpMxOxs=
+
+Name: assets/boatImage/pressedPkg/mainIconNew.pvr.ccz
+SHA1-Digest: xKpgo3oPArrqDAU/HSzkfGsK4Wo=
+
+Name: assets/newImage/newChristmas/christmasImage.plist
+SHA1-Digest: Rt8xC73cTs3oBNokdQAH3yVGRGQ=
+
+Name: resources.arsc
+SHA1-Digest: qktPtfuk9jgV518dT06gv8xkRlU=
+
+Name: assets/public/dengluchainSys/xialuo.plist
+SHA1-Digest: Ri5J0VZ+919gaCreg1R+nCEQ0pk=
+
+Name: assets/ccb_published/MainScene/ChickenAnim.ccbi
+SHA1-Digest: MStMQQ0DFdokSfKp6aieGI3+UiM=
+
+Name: assets/public/acOnlineImage.png
+SHA1-Digest: MKg62opzi1DH5T27v43JBhaSGtI=
+
+Name: assets/newImage/oldRes1.pvr.ccz
+SHA1-Digest: etbOie+drwFOXZcKVeRSEhSE94Q=
+
+Name: res/drawable-xxhdpi/icon.png
+SHA1-Digest: 5jQiydZVoMFL+C3iiNtP7tqbkRE=
+
+Name: assets/boatImage/story/chapter/story_chapter_15.jpg
+SHA1-Digest: hZvclKSp9URQKJAD5GpgYwmC79s=
+
+Name: assets/ccb_published/CheckPoint/ckp_1_14.ccbi
+SHA1-Digest: 3mrusoZtX5ZW+KsNqjTz8tApkJc=
+
+Name: assets/ccb_published/TankNode/tank2/Tank9_2.ccbi
+SHA1-Digest: NAFUoGWEF3qFlCKhn3kgk9xy0Og=
+
+Name: assets/newImage/soldier/soldierTypeSpecial1.png
+SHA1-Digest: HgMMBH5t12wJGthZeQC0poToh6w=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_icon_icon.png
+SHA1-Digest: 5iIDT79tkOopWGRJRGaUly4fOeU=
+
+Name: assets/newImage/activity/activityCommon.pvr.ccz
+SHA1-Digest: hgbbNjJ8rUWs5yZ3Jkv30RCzYVg=
+
+Name: assets/boatImage/story/chapter/story_chapter_11.jpg
+SHA1-Digest: RwjfGgkU82ozlpP7muz+9OgDSXY=
+
+Name: assets/ccb_published/WarriorQueue/liebingHoom10011.ccbi
+SHA1-Digest: tDXTR+pCmTuiU7cZBuJl5SyLugI=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_real_name_correct.png
+SHA1-Digest: 7OPRwdQrKzIyWv7EjQIGK8/iSlA=
+
+Name: assets/audio/attack.m4a
+SHA1-Digest: NC14S4tsSi2tOZyY66xeXH8dpzc=
+
+Name: assets/newImage/portScene/waterfall.png
+SHA1-Digest: V7sSIkJgAAcAjDh15xZtn/vCdm0=
+
+Name: assets/public/xd2.png
+SHA1-Digest: RVJYNgiCo541ed6ezzA7vg+2h/0=
+
+Name: assets/ccb_published/MainScene/Plane_Back.ccbi
+SHA1-Digest: T/rtfWu/1IyQVTQ5NX5GJJBBBeg=
+
+Name: assets/ccb_published/CheckPoint/tk5_6.ccbi
+SHA1-Digest: IFZK6CPCh57yeQ+ZXgihmF7a2Zs=
+
+Name: assets/public/piaofuwu/goldAnimImage.pvr.ccz
+SHA1-Digest: hvZV1z4eK4A96cBB+I7A3Xfbt7k=
+
+Name: assets/newImage/activity/acMysteriousArms.plist
+SHA1-Digest: 6iXFMLd8FuEkzSqbvk+PUGW75sU=
+
+Name: res/drawable/icon.png
+SHA1-Digest: vmI6xZZk1efoeGpojQLgxabw84E=
+
+Name: assets/public/armorMatrixCommon.plist
+SHA1-Digest: onxgxDKGWaUDzkoR7UsvwOHCcAY=
+
+Name: assets/ccb_published/CheckPoint/ro5_4.ccbi
+SHA1-Digest: vlf7kXCGlFDmFCiebsQ9+kmHNI0=
+
+Name: assets/ccb_published/MainScene/EmptyAreaBuild.ccbi
+SHA1-Digest: D22Rwld81YD3KmDwNv9z9Yk+p5M=
+
+Name: assets/ccb_published/TankNode/tank1/Tank3_1.ccbi
+SHA1-Digest: jGzRGPifm3nunpk0XpbL21Ga0Vw=
+
+Name: assets/com.tencent.plus.blue_normal.png
+SHA1-Digest: xUbCnopVA5SB7IPOU07W9fIdgcQ=
+
+Name: assets/newImage/bossParticle/shandian1.png
+SHA1-Digest: sLfx5zZU8nCyNkQYnVe5dDGEeYU=
+
+Name: assets/newImage/mainUI/liebingHoom10024.pvr.ccz
+SHA1-Digest: mmJn4Z88xFlq/6Gdtt6fKwWwGGk=
+
+Name: assets/newImage/localWar/localWar.plist
+SHA1-Digest: 5W4hB+yZzApX6PopmWWrsY25RV4=
+
+Name: res/layout/com_tencent_ysdk_icon_force_pop_view.xml
+SHA1-Digest: UGIgEkb72dQ7mmkYNedjmXAlnDI=
+
+Name: assets/buttonNegt.png
+SHA1-Digest: M/KJLlnIIzm0mx/H8xU6UaR6OUo=
+
+Name: assets/ccb_published/WarriorQueue/liebingHoom10013.ccbi
+SHA1-Digest: jbAXSHQ0IHbum+30707M7Y27PDA=
+
+Name: assets/button_red.9.png
+SHA1-Digest: z8N2pqVNkCyZz5wtpznaYVj1Als=
+
+Name: assets/ccb_published/MainScene/Die_cross.ccbi
+SHA1-Digest: jhJ78XP83wIYFnKJwEOAq9VSlPA=
+
+Name: assets/ccb_published/TankNode/tank2/effect/FireEffect2.ccbi
+SHA1-Digest: o+4LnZd8vGbIp/Fbr4NeZZfnbHA=
+
+Name: assets/scene/battles_new_1.png
+SHA1-Digest: zoay9LLMV3X48sHNhQBJEhkR7FI=
+
+Name: assets/ccb_published/TankNode/tank8/effect/FireEffect2.ccbi
+SHA1-Digest: K0HSLonLQP6RMSWJGxI4QXCkhpE=
+
+Name: assets/boatImage/story/chapter/story_chapter_5.jpg
+SHA1-Digest: WXCG/y4tJCmPuHxlS5qScttojnU=
+
+Name: assets/newImage/soldier/march.plist
+SHA1-Digest: HhIB4m3UF3gFLtu6a7csgwTcamg=
+
+Name: assets/CCBRes/shield.pvr.ccz
+SHA1-Digest: wU+beiHbZ0WNZCqM88TbNW3kaoY=
+
+Name: assets/public/btnParticle/zhakai.plist
+SHA1-Digest: ZEN8QpG9zcG+1rI0rSrC0opIDmQ=
+
+Name: assets/ccb_published/CheckPoint/tk2_tk2_tk2_14.ccbi
+SHA1-Digest: /n4d3evaSluxJMBQWtERDN9SX34=
+
+Name: assets/ccb_published/CheckPoint/tk4_tk4_13.ccbi
+SHA1-Digest: RKpgI9xEjNxleoClScEqAgZRcxo=
+
+Name: assets/newImage/particle/notice_airwaves.png
+SHA1-Digest: 8PoIGw8BDzeUHDalEIFpGAR4ygU=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_icon_jiasuicon.png
+SHA1-Digest: twvfqSYFEVMPikVW9mfqxvHIs9k=
+
+Name: assets/ccb_published/TankNode/tank1/effect/tk99999Turrent.ccbi
+SHA1-Digest: GirZtnU4bZR6zIZxDzj3a/nLexc=
+
+Name: assets/newImage/activity/acShengdankuanghuan.plist
+SHA1-Digest: k90dANGjNm5IrEOyS1f2/rRZV/U=
+
+Name: assets/public/armorMatrix/armorMatrix01.plist
+SHA1-Digest: fOqMf2ylirtPEXZwfq4/YTZT0qI=
+
+Name: assets/ccb_published/WarriorQueue/WarriorUi6.ccbi
+SHA1-Digest: gj+QHzpe0ik1VPe6uqQfNpmO9zE=
+
+Name: assets/boatImage/pressedPkg/homeBuilding.plist
+SHA1-Digest: 1N0M9M6WTnBwt2ShM+3toQyk7AI=
+
+Name: assets/newImage/activity/guihuo.plist
+SHA1-Digest: t2ZciMEg7TKVcqhr5dOHhjh3qU0=
+
+Name: assets/public/btnParticle/zhakai.png
+SHA1-Digest: EiBtyXXrhP0gMawk6e41SMHWHBw=
+
+Name: assets/ccb_published/TankNode/tank4/Tank15_2.ccbi
+SHA1-Digest: 1lU81KHRzapP1qDhoylhxhj0hl0=
+
+Name: assets/ccb_published/MainScene/BuildingName.ccbi
+SHA1-Digest: UUpG5WNmqX6WQaBsE6NNgp8Lq2g=
+
+Name: assets/newImage/troops/troopsEdit.plist
+SHA1-Digest: S+pDYoD2/L+nTHY3I3d6cXj3SlI=
+
+Name: assets/newImage/soldier/soldierType8.plist
+SHA1-Digest: R7Osn1eGaqMjF24lGXkwU0bgzIE=
+
+Name: assets/ccb_published/Activity/ActivityBox.ccbi
+SHA1-Digest: hqvm3ubkF8LGWhzFqKVxNUeDT5E=
+
+Name: assets/developerInfo.xml
+SHA1-Digest: GtqWP4WfxP0lyHGKKlWL3o5h9o0=
+
+Name: assets/newImage/activity/acMayDaySupply.plist
+SHA1-Digest: 0Kn2/G+HzgFDYLBvKW0Xk1FJ+Jw=
+
+Name: assets/newImage/mainUI/liebingHoom10055.plist
+SHA1-Digest: zBV9+WKClEnkrJjG3DXiooh+tHQ=
+
+Name: assets/CCBRes/tk19.plist
+SHA1-Digest: P6SrHE71I5/kaPL34wke24fLejY=
+
+Name: assets/ccb_published/TankNode/tank8/Tank20_2.ccbi
+SHA1-Digest: 70uxrqFWdOC76cDyf3N1RRrh830=
+
+Name: assets/CCBRes/tk10_1.pvr.ccz
+SHA1-Digest: XeK1h8T0MFUt/U3KDc0cocbKh9w=
+
+Name: res/anim/unipay_anim_in_from_right.xml
+SHA1-Digest: 1LDELbaqJMGSuwIZdErKFl8WdOo=
+
+Name: assets/public/yuanDanyactanhua/LevelUp_FireworksBoom02.png
+SHA1-Digest: kkQxSSU/Zfv3VWPKU4jF5K6dNcA=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_icon_fuliicon.png
+SHA1-Digest: TUhwhb5SXKviTxKFzcYhLZs74k8=
+
+Name: assets/newImage/portScene/portDragonAnim.plist
+SHA1-Digest: X53THHPg+0jy65niI8L9/YCyKUE=
+
+Name: assets/boatImage/pressedPkg/old_image_public.pvr.ccz
+SHA1-Digest: XoHExX4zaBkfPXWIXFI2sY/tBsA=
+
+Name: assets/scene/logoImage/Logo_zh7.png
+SHA1-Digest: KaRJ7N0ni/iU+H0HPP90X8gE8sE=
+
+Name: assets/ccb_published/CheckPoint/tk4_oil_11.ccbi
+SHA1-Digest: cNow0V98HA5DRgQ+EY44Zy2RAhk=
+
+Name: assets/newImage/activity/blue_star.plist
+SHA1-Digest: liLpe5JHqG7sZBjjphO39f0BKLk=
+
+Name: assets/newImage/portScene/dcx.png
+SHA1-Digest: txwooGvH735A+tbjBQHtVTi707M=
+
+Name: assets/CCBRes/tk15_1.pvr.ccz
+SHA1-Digest: 3FsWyc8eEplWcX/EW037roEU0UE=
+
+Name: assets/newImage/mainUI/huojianbing.plist
+SHA1-Digest: 3tqwPWvp8QnKymgM3tLK2sW8SaI=
+
+Name: assets/newImage/soldier/soldierTypeSpecial1.plist
+SHA1-Digest: lfitMIeRzVkM/d12dyxlMptyVA0=
+
+Name: assets/ccb_published/CheckPoint/ckp_1_11.ccbi
+SHA1-Digest: UX3iFXWI2IrGBMgcbZqIGTiX7rc=
+
+Name: assets/ccb_published/CheckPoint/ckp_1_8.ccbi
+SHA1-Digest: rpX4uJJCInJ72YSV7ECbSPCQy3Y=
+
+Name: assets/newImage/particle/christmas_piao02.png
+SHA1-Digest: cFplDSqYcyi3qk/2Nz47tSX+ehI=
+
+Name: assets/ccb_published/TankNode/tank4/Tank11_1.ccbi
+SHA1-Digest: bTaQcw7DX+Q8DIB3hW/0V3quP+k=
+
+Name: res/drawable-xhdpi/com_tencent_ysdk_real_name_close_sel.png
+SHA1-Digest: tZtBvfYWV7LknRShw0vnlKF7Gt0=
+
+Name: assets/newImage/particle/battle_mt_rain_1.png
+SHA1-Digest: inTOW5yBOqs9782LsKqwMxwqnVA=
+
+Name: assets/scene/homeMap_02.jpg
+SHA1-Digest: r1Er5ZIXZYfrWKI0kroGJlwK5Xg=
+
+Name: assets/ccb_published/WarriorQueue/liebingHoom10055.ccbi
+SHA1-Digest: 0IzpgqD6KUUGrlOq40M5Oh+sDWA=
+
+Name: assets/newImage/portScene/paymentAnim.plist
+SHA1-Digest: k5OuC9ZMycepAigv8x8dQtsZhYU=
+
+Name: assets/newImage/localWar/localWarCityIcon.png
+SHA1-Digest: aAok4vDsakP7NRDhBbqJDE/C7pM=
+
+Name: assets/newImage/activity/acWanshengjiedazuozhan.pvr.ccz
+SHA1-Digest: xNNz1LJfmr55Ilu9yeKgjKKtgBg=
+
+Name: assets/CCBRes/tk_1.plist
+SHA1-Digest: c0cW+bsb3HsTertEI11WfmXfRuk=
+
+Name: assets/ccb_published/MainScene/WarehouseBuild.ccbi
+SHA1-Digest: HRgFieKnSdrmD2cC/gphyBH2QyU=
+
+Name: assets/ccb_published/MainScene/BuildLittleTool.ccbi
+SHA1-Digest: P61OseJQxf4PcI2PMMNCFYdZYM0=
+
+Name: assets/ccb_published/MainScene/PerthMintBuild.ccbi
+SHA1-Digest: b2Xml6EHaKx5AouHbAU7pIj07MI=
+
+Name: assets/ccb_published/CheckPoint/tk3_oil_11.ccbi
+SHA1-Digest: UX3iFXWI2IrGBMgcbZqIGTiX7rc=
+
+Name: assets/CCBRes/tk8_2.pvr.ccz
+SHA1-Digest: XaMFfPI9z2TTKAAbWkD/YF++Yvc=
+
+Name: assets/audio/building_union.m4a
+SHA1-Digest: +JC+rYdbAFYfUJdyhsNreKQz2Rc=
+

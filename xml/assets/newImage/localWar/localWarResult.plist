@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>localWar_ResultBg1.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,550},{485,131}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{485,131}}</string>
+                <key>sourceSize</key>
+                <string>{485,131}</string>
+            </dict>
+            <key>localWar_ResultBg2.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,0},{485,548}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{485,548}}</string>
+                <key>sourceSize</key>
+                <string>{485,548}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>localWarResult.pvr.ccz</string>
+            <key>size</key>
+            <string>{485,681}</string>
+            <key>textureFileName</key>
+            <string>localWarResult.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

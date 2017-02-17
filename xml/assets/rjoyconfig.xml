@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <platform>0</platform>
+    <sdk_name>androidrsdk</sdk_name>
+    <rayloadpath>http://modernwar-ml-web01.qitiangame.com/tankheroclient/load_new.php</rayloadpath>
+    <rayloadpathtest>http://modernwar-ml-web01.qitiangame.com/tankheroclient/load_test.php</rayloadpathtest>
+    <raycversion>7</raycversion>
+</config>

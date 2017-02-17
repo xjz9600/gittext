@@ -1,0 +1,63 @@
+{
+    "language": {
+        "zh-Hans-CN": "cn",
+        "zh-Hans": "cn",
+        "zh-Hant": "tw",
+        "id": "in",
+        "th": "thai",
+        "en": "en",
+        "de": "de",
+        "ko": "ko",
+        "ru": "ru",
+        "pt": "pt",
+        "ar": "ar",
+        "fr": "fr",
+        "ja": "ja",
+        "hk":"hk"
+    },
+    "cn": {
+        "key1": "部队集结中...",
+        "key2": "正在部署部队...",
+        "key3": "部署部队即将完成...",
+        "key4": "提示",
+        "key5": "游戏有新版本了，请更新最新版本",
+        "key6": "温馨提示：如遇到充值问题请联系客服。",
+        "key7": "网络出错，请检查网络后重试。"
+    },
+    "tw": {
+        "key1": "部隊集結中...",
+        "key2": "正在部署部隊...",
+        "key3": "部署部隊即將完成...",
+        "key4": "提示",
+        "key5": "遊戲有新版本了，請更新最新版本",
+        "key6": "溫馨提示：如遇到儲值問題請聯繫客服。",
+        "key7": "網路出錯，請檢查網路後重試。"
+    },
+    "hk": {
+        "key1": "部隊集結中...",
+        "key2": "正在部署部隊...",
+        "key3": "部署部隊即將完成...",
+        "key4": "提示",
+        "key5": "遊戲有新版本嚕，請更新最新版本方能征戰天下。",
+        "key6": "溫馨提示：如遇到儲值問題請聯繫客服。",
+        "key7": "網路出錯，請檢查網路後重試。"
+    },
+    "en": {
+        "key1": "Troops are assembling…",
+        "key2": "Deploying Troops…",
+        "key3": "Deployment will complete soon…",
+        "key4": "Hint",
+        "key5": "New version is ready, please upgrade to the latest version",
+        "key6": "Tip: If you have any problems while recharging, please contact our CS team.",
+        "key7": "Connection failure, check your internet."
+    },
+    "de": {
+        "key1": "Truppen versammeln sich...",
+        "key2": "Truppen stellen sich auf…",
+        "key3": "Aufstellung wird bald vollständig sein..",
+        "key4": "Hinweis",
+        "key5": "Neue Version ist verfügbar, bitte lade die neueste Version",
+        "key6": "Tipp:Wenn es Probleme mit der Aufladung gibt, kontaktiere bitte unseren Kundenservice. ",
+        "key7": "网络出错，请检查网络后重试。"
+    }
+}

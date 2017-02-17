@@ -1,0 +1,15 @@
+#!/usr/bin/python
+#coding:utf-8
+import sqlite3
+import os
+
+dbPath = '/Users/xiejunze/Desktop/secondRSDKTools/RSDKTools.app/Contents/config/config.db'
+cx = sqlite3.connect(dbPath)
+cx.row_factory = sqlite3.Row
+c = cx.cursor()
+c.execute('select * from tpl_channel where idChannel="'+str(1)+'"')
+rows = c.fetchall()
+for r in rows:
+	if r['packNameSuffix'] == '':
+		print("未找到解压缩后的文件")
+print("aaaaaa")
