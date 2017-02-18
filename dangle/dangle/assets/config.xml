@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<config pluginId="600057">
+<config pluginId="mythird">
 	<paramLs>
 		<param name = "param_name_value" required = "1" desc = "param_desc_value" showName = "param_show_name_value" bWriteIntoManifest = "0" bUserOffer = "1"/>
 	</paramLs>
