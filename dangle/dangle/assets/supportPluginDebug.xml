@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-	  <support>
-	  		<user_plugin>
-	  			<param name="userdangle">UserDangle</param>
-	  		</user_plugin>
-	  		<iap_plugin>
-	  			<param name="iaponlinedangle">IAPOnlineDangle</param>
-	  		</iap_plugin>
-	  	</support>
