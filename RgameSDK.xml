@@ -1,0 +1,7 @@
+<PTTrackerSDK>
+    <RunConfig>
+        <RunConfig appId="20050011" appKey="5bb8d78300de2bb892e9b6ea38a2be96" billingModule="Rgame" debug="true" language="cn" register="true" switchuser="false" foreign="0" baseUrlCom="sdk-cn.qitiangame.com" biagent="modernwar-ml-kafka.qitiangame.com" statistic="modernwar-ml-kafka.qitiangame.com" baseUrlComBackup="sdk-cn.goldgame2.com" biagentBackup="bi-agent-cn.goldgame2.com" statisticBackup="bi-agent-cn.goldgame2.com" biSecret="otXJfLya9e4Rar=Xd%P@G@U6c#QPn@4d"/>
+        <ThirdPlatform></ThirdPlatform>
+        <Tracker></Tracker>
+    </RunConfig>
+</PTTrackerSDK>
